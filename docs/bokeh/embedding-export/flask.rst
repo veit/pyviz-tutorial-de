@@ -166,4 +166,6 @@ Examplarisch betten wir Bokeh-Plots in das `Flask
 
    * `User Guide/Embedding Plots and Apps/App Sessions
      <https://bokeh.pydata.org/en/latest/docs/user_guide/embed.html#app-sessions>`_ 
+   * `GnuCash-Expenses-Vis
+     <https://github.com/maciek3000/GnuCash-Expenses-Vis>`_
 
