@@ -314,6 +314,12 @@ Technologien
             color="#00FFFF",
             target="_top",
             href="../js/ipyleaflet.html"]
+        xarray_leaflet [
+            label="xarray-leaflet",
+            tooltip="xarray extension für Kartendarstellungen",
+            color="#00FFFF",
+            target="_top",
+            href="../js/xarray-leaflet.html"]
         ipympl [
             label="ipympl",
             tooltip="Matplotlib\nJupyter Extension",
@@ -322,6 +328,7 @@ Technologien
             href="https://jupyter-tutorial.readthedocs.io/de/latest/workspace/jupyter/ipywidgets/libs/ipympl.html"]
         javascript -- ipyvolume [color="#00FFFF"]
         javascript -- ipyleaflet [color="#00FFFF"]
+        ipyleaflet -- xarray_leaflet [color="#00FFFF"]
         javascript -- ipympl [color="#00FFFF"]
         javascript -- toyplot [color="#00FFFF"]
         javascript -- bokeh [color="#00FFFF;0.5:#9999FF"]
@@ -372,6 +379,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
 
     "`cartopy <https://github.com/SciTools/cartopy>`_",".. image:: https://raster.shields.io/github/stars/SciTools/cartopy",".. image:: https://raster.shields.io/github/contributors/SciTools/cartopy",".. image:: https://raster.shields.io/github/commit-activity/y/SciTools/cartopy",".. image:: https://raster.shields.io/github/license/SciTools/cartopy"
     "`ipyleaflet <https://github.com/jupyter-widgets/ipyleaflet>`_",".. image:: https://raster.shields.io/github/stars/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/contributors/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/commit-activity/y/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/license/jupyter-widgets/ipyleaflet"
+    "`xarray-leaflet <https://github.com/davidbrochart/xarray_leaflet>`_",".. image:: https://raster.shields.io/github/stars/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/contributors/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/commit-activity/y/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/license/davidbrochart/xarray_leaflet"
     "`geopandas <https://github.com/geopandas/geopandas>`_",".. image:: https://raster.shields.io/github/stars/geopandas/geopandas",".. image:: https://raster.shields.io/github/contributors/geopandas/geopandas",".. image:: https://raster.shields.io/github/commit-activity/y/geopandas/geopandas",".. image:: https://raster.shields.io/github/license/geopandas/geopandas"
     "`geoplot <https://github.com/ResidentMario/geoplot/>`__",".. image:: https://raster.shields.io/github/stars/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/contributors/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/commit-activity/y/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/license/ResidentMario/geoplot"
 
