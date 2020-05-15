@@ -16,4 +16,11 @@ Datenmodell basierend auf `Climate and Forecast (CF) Conventions
      <https://scitools.org.uk/iris/docs/latest/examples/Meteorology/index.html>`_
    - `Oceanography visualisation examples
      <https://scitools.org.uk/iris/docs/latest/examples/Oceanography/index.html>`_
+   - `SciTools courses: Iris course
+     <https://github.com/SciTools/courses/tree/master/course_content/iris_course>`_
+   - SciTools: Iris example code
+
+     - `GitHub <https://github.com/SciTools/iris_example_code>`_
+     - `nbviewer
+       <https://nbviewer.jupyter.org/github/SciTools/iris_example_code/blob/master/index.ipynb>`_
 
