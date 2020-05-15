@@ -11,6 +11,9 @@ verwendet werden um basierend auf :doc:`/matplotlib/index` Karten zu erstellen.
      <https://scitools.org.uk/cartopy/>`_
    - `Gallery
      <https://scitools.org.uk/cartopy/docs/latest/gallery/index.html>`_
+   – `Cartopy Tutorial <https://github.com/SciTools/cartopy-tutorial>`_
+   – `SciTools courses: Cartopy Intro
+     <https://github.com/SciTools/courses/tree/master/course_content/cartopy_course>`_
 
 .. toctree::
     :titlesonly:
