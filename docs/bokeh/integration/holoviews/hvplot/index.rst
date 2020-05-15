@@ -5,7 +5,7 @@ Viele Bibliotheken wie :doc:`/matplotlib/pandas/index`, `XArray
 <http://xarray.pydata.org/>`_, `Dask <http://dask.pydata.org/>`_, `Streamz
 <http://streamz.readthedocs.io/>`_ und
 :jupyter-tutorial:doc:`gather/intake/index` haben eine High-Level-Plot-API, die
-meist auf :jupyter-tutorial:doc:`viz/matplotlib/index` beruhen. Sie bieten
+meist auf :jupyter-tutorial:doc:`/matplotlib/index` beruht. Sie bieten
 jedoch nicht die Vorteile moderner Web-APIs, wie :doc:`/bokeh/index` und
 `HoloViews <http://holoviews.org/>`_. `hvPlot <https://hvplot.holoviz.org/>`_
 ist eine auf HoloViews basierende High-Level-Plot-API, die eine allgemeine und
