@@ -29,6 +29,8 @@ einerseits viele Freiheiten bietet, andererseits jedoch viel Code erfordert.
    - `Nicolas P. Rougier: Matplotlib cheat sheet
      <https://github.com/rougier/matplotlib-cheatsheet>`_
    - `Learning matplotlib <https://riptutorial.com/ebook/matplotlib>`_
+   - `SciTools courses: An introduction to matplotlib
+     <https://github.com/SciTools/courses/blob/master/course_content/extra_courses/matplotlib_intro.ipynb>`_
 
 .. toctree::
     :titlesonly:
