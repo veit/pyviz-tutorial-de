@@ -1,7 +1,7 @@
 Schnelleinstieg
 ===============
 
-|Contributors| |License| |Docs|
+|Contributors| |License| |Docs| |Pyup|
 
 .. |Contributors| image:: https://img.shields.io/github/contributors/veit/pyviz-tutorial.svg
    :target: https://github.com/veit/pyviz-tutorial/graphs/contributors
@@ -9,7 +9,9 @@ Schnelleinstieg
    :target: https://github.com/veit/pyviz-tutorial/blob/master/LICENSE
 .. |Docs| image:: https://readthedocs.org/projects/pyviz-tutorial/badge/?version=latest
    :target: https://pyviz-tutorial.readthedocs.io/de/latest/
-
+.. |Pyup| image:: https://pyup.io/repos/github/veit/pyviz-tutorial/shield.svg
+   :target: https://pyup.io/repos/github/veit/pyviz-tutorial/
+ 
 Installation
 ------------
 
