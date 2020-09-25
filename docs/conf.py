@@ -73,7 +73,7 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-    'description': 'Datenvisualisierung mit Python.',
+    'description': 'Materialen für die <a href="https://cusy.io/de/seminare">Cusy-Schulung zu Datenvisualisierung mit Python</a>.',
     'fixed_sidebar': False,
     'show_powered_by': False,
     'github_user': 'veit',
@@ -86,7 +86,7 @@ html_theme_options = {
 }
 
 html_sidebars = {
-    '**':    ['about.html', 'training.html', 'searchbox.html', 'navigation.html']
+    '**':    ['about.html', 'searchbox.html', 'navigation.html']
 }
 
 # Change default HTML title
