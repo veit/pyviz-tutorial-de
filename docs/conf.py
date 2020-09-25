@@ -86,7 +86,7 @@ html_theme_options = {
 }
 
 html_sidebars = {
-    '**':    ['about.html', 'searchbox.html', 'navigation.html']
+    '**':    ['about.html', 'training.html', 'searchbox.html', 'navigation.html']
 }
 
 # Change default HTML title
