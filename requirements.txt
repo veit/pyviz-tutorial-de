@@ -1,7 +1,7 @@
 Sphinx==3.3.0
 jupyter-server==1.0.5
 jupyter-client==6.1.7
-notebook==6.1.4
+notebook==6.1.5
 jupyter==1.0.0
 nbsphinx==0.8.0
 xarray-leaflet==0.1.12
