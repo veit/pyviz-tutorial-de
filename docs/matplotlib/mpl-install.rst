@@ -1,7 +1,7 @@
 Matplotlib-Installation
 =======================
 
-Mit :jupyter-tutorial:doc:`productive/envs/spack/index` könnt ihr Matplotlib in
+Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Matplotlib in
 eurem Kernel bereitstellen, z.B. mit:
 
 .. code-block:: console
@@ -10,7 +10,7 @@ eurem Kernel bereitstellen, z.B. mit:
     $ spack install py-matplotlib ^python@3.7.4%gcc@9.1.0
 
 Alternativ könnt ihr Matplotlib auch mit anderen Paketmanagern installieren, z.B.
-mit :jupyter-tutorial:doc:`productive/envs/pipenv/index`:
+mit :doc:`jupyter-tutorial:productive/envs/pipenv/index`:
 
 .. code-block:: console
 

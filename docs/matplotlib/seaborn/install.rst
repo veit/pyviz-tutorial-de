@@ -1,7 +1,7 @@
 seaborn-Installation
 ====================
 
-Mit :jupyter-tutorial:doc:`productive/envs/spack/index` könnt ihr seaborn in
+Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr seaborn in
 eurem Kernel bereitstellen, z.B. mit:
 
 .. code-block:: console

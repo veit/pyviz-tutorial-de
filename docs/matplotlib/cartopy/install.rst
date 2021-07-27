@@ -1,7 +1,7 @@
 Cartopy-Installation
 ====================
 
-Mit :jupyter-tutorial:doc:`productive/envs/spack/index` könnt ihr Cartopy in
+Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Cartopy in
 eurem Kernel bereitstellen, z.B. mit:
 
 .. code-block:: console

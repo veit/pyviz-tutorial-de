@@ -21,7 +21,7 @@ Interfaces zur Verfügung:
 Installation
 ------------
 
-Mit :jupyter-tutorial:doc:`productive/envs/spack/index` könnt ihr Bokeh in
+Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Bokeh in
 eurem Kernel bereitstellen, z.B. mit:
 
 .. code-block:: console
