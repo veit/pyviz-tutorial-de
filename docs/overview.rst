@@ -428,11 +428,9 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`vincent <https://github.com/wrobstory/vincent>`_",".. image:: https://raster.shields.io/github/stars/wrobstory/vincent",".. image:: https://raster.shields.io/github/contributors/wrobstory/vincent",".. image:: https://raster.shields.io/github/commit-activity/y/wrobstory/vincent",".. image:: https://raster.shields.io/github/license/wrobstory/vincent"
     "`Matplotlib Altair <https://github.com/matplotlib/mpl-altair>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/contributors/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/license/matplotlib/mpl-altair"
 
-Weitere Informationen über Lizenzen erhaltet ihr in:
+Weitere Informationen über Lizenzen erhaltet ihr im unserem :doc:`Jupyter
+Tutorial <jupyter-tutorial:productive/licensing>`.
 
-* `The Whys and Hows of Licensing Scientific Code
-  <https://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scientific-code/>`_
-* `Choose an open source license <https://choosealicense.com/>`_
 
 Diagrammtypen
 -------------
