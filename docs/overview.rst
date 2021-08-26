@@ -61,6 +61,12 @@ Technologien
             color="#BF80FF",
             target="_top",
             href="https://residentmario.github.io/geoplot/index.html"]
+        prettymaps [
+            label="prettymaps",
+            tooltip="Python-Bibliothek zum Zeichnen benutzerdefinierter Karten aus OpenStreetMap-Daten",
+            color="#BF80FF",
+            target="_top",
+            href="https://github.com/marceloprates/prettymaps"]
         descartes [
             label="descartes",
             tooltip="Shapely- und GeoJSON-ähnliche Objekte als Matplotlib-Pfade",
@@ -130,6 +136,7 @@ Technologien
         mpl -- pandas [color="#BF80FF"]
         pandas  -- geopandas [color="#BF80FF"]
         mpl -- geoplot [color="#BF80FF"]
+        mpl -- prettymaps [color="#BF80FF"]
         mpl -- descartes [color="#BF80FF"]
         mpl -- seaborn [color="#BF80FF"]
         mpl -- ggpy [color="#BF80FF"]
@@ -383,6 +390,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`xtrude <https://github.com/davidbrochart/xtrude>`_",".. image:: https://raster.shields.io/github/stars/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/contributors/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/commit-activity/y/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/license/davidbrochart/xtrude"
     "`geopandas <https://github.com/geopandas/geopandas>`_",".. image:: https://raster.shields.io/github/stars/geopandas/geopandas",".. image:: https://raster.shields.io/github/contributors/geopandas/geopandas",".. image:: https://raster.shields.io/github/commit-activity/y/geopandas/geopandas",".. image:: https://raster.shields.io/github/license/geopandas/geopandas"
     "`geoplot <https://github.com/ResidentMario/geoplot/>`__",".. image:: https://raster.shields.io/github/stars/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/contributors/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/commit-activity/y/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/license/ResidentMario/geoplot"
+    "`prettymaps <https://github.com/marceloprates/prettymaps>`__",".. image:: https://raster.shields.io/github/stars/marceloprates/prettymaps",".. image:: https://raster.shields.io/github/contributors/marceloprates/prettymaps",".. image:: https://raster.shields.io/github/commit-activity/y/marceloprates/prettymaps",".. image:: https://raster.shields.io/github/license/marceloprates/prettymaps"
 
 .. csv-table:: GitHub-Insights: Graphen und Netzwerke
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
@@ -455,6 +463,7 @@ Diagrammtypen
 
   * :doc:`matplotlib/cartopy/index`
   * `Geoplot <https://residentmario.github.io/geoplot/index.html>`__
+  * `prettymaps <https://github.com/marceloprates/prettymaps>`__
   * `descartes <https://pypi.org/project/descartes/>`_
   * `GeoViews <https://geoviews.org/>`_
   * :doc:`js/ipyleaflet`
