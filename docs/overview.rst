@@ -43,6 +43,12 @@ Technologien
             color="#BF80FF"
             target="_top",
             href="../matplotlib/index.html"]
+        mpl_scatter_density [
+            label="mpl-scatter-density",
+            tooltip="Streudichtekarten für die\naussagekräftige Darstellungen\ngroßer Datensätze",
+            color="#BF80FF",
+            target="_top",
+            href="../matplotlib/mpl-scatter-density.html"]
         pandas [
             label="Pandas",
             tooltip="Pandas Datenstrukturen mit\nMatplotlib visualisieren",
@@ -134,6 +140,7 @@ Technologien
             target="_top",
             href="../matplotlib/yt.html"]
         mpl -- pandas [color="#BF80FF"]
+        mpl -- mpl_scatter_density [color="#BF80FF"]
         pandas  -- geopandas [color="#BF80FF"]
         mpl -- geoplot [color="#BF80FF"]
         mpl -- prettymaps [color="#BF80FF"]
@@ -403,6 +410,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
 
     "`datashader <https://github.com/holoviz/datashader>`_",".. image:: https://raster.shields.io/github/stars/holoviz/datashader",".. image:: https://raster.shields.io/github/contributors/holoviz/datashader",".. image:: https://raster.shields.io/github/commit-activity/y/holoviz/datashader",".. image:: https://raster.shields.io/github/license/holoviz/datashader"
     "`vaex <https://github.com/vaexio/vaex>`_",".. image:: https://raster.shields.io/github/stars/vaexio/vaex",".. image:: https://raster.shields.io/github/contributors/vaexio/vaex",".. image:: https://raster.shields.io/github/commit-activity/y/vaexio/vaex",".. image:: https://raster.shields.io/github/license/vaexio/vaex"
+    "`mpl-scatter-density <https://github.com/astrofrog/mpl-scatter-density>`_",".. image:: https://raster.shields.io/github/stars/astrofrog/mpl-scatter-density",".. image:: https://raster.shields.io/github/contributors/astrofrog/mpl-scatter-density",".. image:: https://raster.shields.io/github/commit-activity/y/astrofrog/mpl-scatter-density",".. image:: https://raster.shields.io/github/license/astrofrog/mpl-scatter-density"
 
 .. csv-table:: GitHub-Insights: OpenGL
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
@@ -483,6 +491,7 @@ Diagrammtypen
   * :doc:`matplotlib/index`
   * `HoloViews <http://holoviews.org/>`__
   * :doc:`js/ipyvolume`
+  * :doc:`matplotlib/mpl-scatter-density`
 
 Datengröße
 ----------
@@ -519,4 +528,3 @@ ist:
       <https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017>`_
     * `Data visualization grid
       <http://www.pythongrids.org/grids/g/data-visualization/>`_
-

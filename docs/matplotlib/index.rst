@@ -40,6 +40,7 @@ einerseits viele Freiheiten bietet, andererseits jedoch viel Code erfordert.
     mpl-install
     mpl-backends.ipynb
     mpl-example.ipynb
+    mpl-scatter-density
     mpld3 <https://mpld3.github.io/>
     pandas/index
     geopandas/index
