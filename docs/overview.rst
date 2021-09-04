@@ -186,23 +186,24 @@ Technologien
             color="#9999FF",
             target="_top",
             href="../bokeh/integration/holoviews/hvplot/index.html"]
-        geoviews [
-            label="GeoViews",
-            tooltip="Analysieren und Visualisieren von\ngeographischen, meterologischen\nund ozeanischen Daten",
-            color="#BF80FF",
-            target="_top",
-            href="../bokeh/integration/holoviews/geoviews.html"]
         datashader [
             label="Datashader",
             tooltip="Grafik-Pipeline-System für\naussagekräftige Darstellungen\ngroßer Datensätze",
             color="#9999FF",
             target="_top",
             href="../bokeh/integration/datashader.html"]
+        geoviews [
+            label="GeoViews",
+            tooltip="Analysieren und Visualisieren von\ngeographischen, meterologischen\nund ozeanischen Daten",
+            color="#9999FF",
+            target="_top",
+            href="../bokeh/integration/holoviews/geoviews.html"]
+        geoviews -- cartopy [color="#9999FF;0.5:#BF80FF"]
+        geoviews -- holoviews [color="#9999FF"]
+        geoviews -- geopandas [color="#9999FF;0.5:#BF80FF", style="dashed"]
         vaex -- bokeh [color="#9999FF"]
         holoviews -- bokeh [color="#9999FF"]
         holoviews -- hvplot [color="#9999FF"]
-        geoviews -- holoviews [color="#BF80FF;0.5:#9999FF"]
-        geoviews -- cartopy [color="#BF80FF"]
         hvplot -- pandas [color="#9999FF;0.5:#BF80FF"]
         hvplot -- geopandas [color="#9999FF;0.5:#BF80FF"]
         hvplot -- networkx [color="#9999FF;0.5:#BF80FF"]
