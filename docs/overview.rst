@@ -478,7 +478,7 @@ Diagrammtypen
 * Geografische Daten
 
   * :doc:`matplotlib/cartopy/index`
-  * :doc:`bokeh/integration/holoviews/geoviews/index`
+  * :doc:`bokeh/integration/holoviews/geoviews`
   * `Geoplot <https://residentmario.github.io/geoplot/index.html>`__
   * `prettymaps <https://github.com/marceloprates/prettymaps>`__
   * `descartes <https://pypi.org/project/descartes/>`_
