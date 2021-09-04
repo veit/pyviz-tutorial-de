@@ -121,6 +121,12 @@ Technologien
             color="#cccccc",
             target="_top",
             href="../matplotlib/graphviz.html"]
+        graph_tool [
+            label="graph-tool",
+            tooltip="Effizientes Python-Modul zur\nManipulation und statistischen Analyse\n von Graphen",
+            color="#cccccc",
+            target="_top",
+            href="../matplotlib/graph-tool.html"]
         cartopy [
             label="Cartopy",
             tooltip="Erstellen von Karten und\nAnalyse von Geodaten",
@@ -150,7 +156,8 @@ Technologien
         mpl -- plotnine [color="#BF80FF"]
         mpl -- scikit_plot [color="#BF80FF"]
         mpl -- yellowbrick [color="#BF80FF"]
-        networkx -- graphviz [color="#BF80FF;0.5:#cccccc"]
+        networkx -- graphviz [color="#BF80FF;0.5:#cccccc", style="dashed"]
+        graphviz -- graph_tool [color="#cccccc;0.5:#cccccc", style="dashed"]
         mpl -- networkx [color="#BF80FF"]
         mpl -- cartopy [color="#BF80FF"]
         iris -- mpl [color="#BF80FF"]
@@ -412,8 +419,9 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
 .. csv-table:: GitHub-Insights: Graphen und Netzwerke
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
-    "`graphviz <https://github.com/xflr6/graphviz>`_",".. image:: https://raster.shields.io/github/stars/xflr6/graphviz",".. image:: https://raster.shields.io/github/contributors/xflr6/graphviz",".. image:: https://raster.shields.io/github/commit-activity/y/xflr6/graphviz",".. image:: https://raster.shields.io/github/license/xflr6/graphviz"
     "`networkx <https://github.com/networkx/networkx>`_",".. image:: https://raster.shields.io/github/stars/networkx/networkx",".. image:: https://raster.shields.io/github/contributors/networkx/networkx",".. image:: https://raster.shields.io/github/commit-activity/y/networkx/networkx",".. image:: https://raster.shields.io/github/license/networkx/networkx"
+    "`graphviz <https://github.com/xflr6/graphviz>`_",".. image:: https://raster.shields.io/github/stars/xflr6/graphviz",".. image:: https://raster.shields.io/github/contributors/xflr6/graphviz",".. image:: https://raster.shields.io/github/commit-activity/y/xflr6/graphviz",".. image:: https://raster.shields.io/github/license/xflr6/graphviz"
+    "`graph-tool <https://github.com/antmd/graph-tool>`_",".. image:: https://raster.shields.io/github/stars/antmd/graph-tool",".. image:: https://raster.shields.io/github/contributors/antmd/graph-tool",".. image:: https://raster.shields.io/github/commit-activity/y/antmd/graph-tool",".. image:: https://raster.shields.io/github/license/antmd/graph-tool"
 
 .. csv-table:: GitHub-Insights: Rendern großer Datenmengen
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"

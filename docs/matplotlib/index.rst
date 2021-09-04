@@ -49,6 +49,7 @@ einerseits viele Freiheiten bietet, andererseits jedoch viel Code erfordert.
     plotnine/index
     networkx.ipynb
     graphviz.ipynb
+    graph-tool.ipynb
     cartopy/index
     iris
     yt
