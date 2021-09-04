@@ -14,4 +14,4 @@ oder `Datashader <datashader.ipynb>`_ zusammen.
     HoloViews <http://holoviews.org/>
     holoviews/hvplot/index
     datashader.ipynb
-
+    holoviews/geoviews.ipynb

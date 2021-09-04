@@ -186,6 +186,12 @@ Technologien
             color="#9999FF",
             target="_top",
             href="../bokeh/integration/holoviews/hvplot/index.html"]
+        geoviews [
+            label="GeoViews",
+            tooltip="Analysieren und Visualisieren von\ngeographischen, meterologischen\nund ozeanischen Daten",
+            color="#BF80FF",
+            target="_top",
+            href="../bokeh/integration/holoviews/geoviews.html"]
         datashader [
             label="Datashader",
             tooltip="Grafik-Pipeline-System für\naussagekräftige Darstellungen\ngroßer Datensätze",
@@ -195,6 +201,8 @@ Technologien
         vaex -- bokeh [color="#9999FF"]
         holoviews -- bokeh [color="#9999FF"]
         holoviews -- hvplot [color="#9999FF"]
+        geoviews -- holoviews [color="#BF80FF;0.5:#9999FF"]
+        geoviews -- cartopy [color="#BF80FF"]
         hvplot -- pandas [color="#9999FF;0.5:#BF80FF"]
         hvplot -- geopandas [color="#9999FF;0.5:#BF80FF"]
         hvplot -- networkx [color="#9999FF;0.5:#BF80FF"]
@@ -392,6 +400,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
     "`cartopy <https://github.com/SciTools/cartopy>`_",".. image:: https://raster.shields.io/github/stars/SciTools/cartopy",".. image:: https://raster.shields.io/github/contributors/SciTools/cartopy",".. image:: https://raster.shields.io/github/commit-activity/y/SciTools/cartopy",".. image:: https://raster.shields.io/github/license/SciTools/cartopy"
+    "`GeoViews <https://github.com/holoviz/geoviews>`_",".. image:: https://raster.shields.io/github/stars/holoviz/geoviews",".. image:: https://raster.shields.io/github/contributors/holoviz/geoviews",".. image:: https://raster.shields.io/github/commit-activity/y/holoviz/geoviews",".. image:: https://raster.shields.io/github/license/holoviz/geoviews"
     "`ipyleaflet <https://github.com/jupyter-widgets/ipyleaflet>`_",".. image:: https://raster.shields.io/github/stars/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/contributors/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/commit-activity/y/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/license/jupyter-widgets/ipyleaflet"
     "`xarray-leaflet <https://github.com/davidbrochart/xarray_leaflet>`_",".. image:: https://raster.shields.io/github/stars/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/contributors/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/commit-activity/y/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/license/davidbrochart/xarray_leaflet"
     "`xtrude <https://github.com/davidbrochart/xtrude>`_",".. image:: https://raster.shields.io/github/stars/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/contributors/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/commit-activity/y/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/license/davidbrochart/xtrude"
@@ -468,10 +477,10 @@ Diagrammtypen
 * Geografische Daten
 
   * :doc:`matplotlib/cartopy/index`
+  * :doc:`bokeh/integration/holoviews/geoviews/index`
   * `Geoplot <https://residentmario.github.io/geoplot/index.html>`__
   * `prettymaps <https://github.com/marceloprates/prettymaps>`__
   * `descartes <https://pypi.org/project/descartes/>`_
-  * `GeoViews <https://geoviews.org/>`_
   * :doc:`js/ipyleaflet`
   * `Plotly <https://github.com/plotly/plotly.py>`_
   * :doc:`bokeh/integration/datashader`
