@@ -1,9 +1,13 @@
 Daten visualisieren
 ===================
 
+Das Tutorial ist entstanden aus den cusy-Schulungen zur `Datenvisualisierung mit
+Python
+<https://cusy.io/de/unsere-schulungsangebote/python-schulungen-fuer-analysten-wissenschaftler-und-ingenieure>`_.
+
 Aktuell ist es sehr schwierig, einen :doc:`overview` zu erhalten. Im Folgenden
-versuche ich, die Suche nach der passenden Bibliothek zu vereinfachen, indem
-ich einige Aspekte genauer beleuchte:
+versuchen wir, die Suche nach der passenden Bibliothek zu vereinfachen, indem
+wir einige Aspekte genauer beleuchte:
 
 * :ref:`/overview.rst#technologien`
 * :ref:`/overview.rst#aktivitaten-und-lizenzen`
@@ -11,7 +15,7 @@ ich einige Aspekte genauer beleuchte:
   regelmäßige und unregelmäßige Gitter etc.)
 * :ref:`/overview.rst#datengrosze`
 
-Anschließend gebe ich eine praktische Einführung in die meisten Bibliotheken.
+Anschließend geben wir eine praktische Einführung in die meisten Bibliotheken.
 
 .. toctree::
     :titlesonly:
@@ -26,4 +30,3 @@ Anschließend gebe ich eine praktische Einführung in die meisten Bibliotheken.
     opengl/index
     d3js/index
     js/index
-
