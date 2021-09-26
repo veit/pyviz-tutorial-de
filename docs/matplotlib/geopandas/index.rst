@@ -13,6 +13,7 @@ verwendet GeoPandas `Fiona <https://fiona.readthedocs.io/>`_ und zum Plotten
    - `Gallery <http://geopandas.org/gallery/index.html>`_
    - `GeoPandas Introduction
      <https://geohackweek.github.io/vector/04-geopandas-intro/>`_
+   - `dask-geopandas <https://github.com/geopandas/dask-geopandas>`_
 
 .. toctree::
     :titlesonly:
@@ -21,4 +22,3 @@ verwendet GeoPandas `Fiona <https://fiona.readthedocs.io/>`_ und zum Plotten
 
     install
     example.ipynb
-
