@@ -4,9 +4,6 @@
 # allowed: all, insecure, False
 update: all
 
-# Search for requirement files
-search: True
-
 # Dependency pinning
 pin: True
 
@@ -15,6 +12,9 @@ default: main
 
 # Update schedule
 schedule: "every week"
+
+# Search for requirement files
+search: True
 
 # Add a label to pull requests
 label_prs: update
@@ -29,7 +29,3 @@ branch_prefix: pyup-
 
 # Allow to close stale PRs
 close_prs: True
-
-# Label PRs
-label_prs: update
-
