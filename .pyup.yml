@@ -1,20 +1,26 @@
 # See https://pyup.io/docs/bot/config/
 
+# Search for requirement files
+# search: True
+
 # Update all packages
 # allowed: all, insecure, False
-update: all
+# update: all
 
 # Dependency pinning
-pin: True
+# pin: True
+
+requirements:
+  - docs/constraints.txt:
+      update: all
+  - docs/requirements.txt:
+      pin: False
 
 # Default Branch
 default: main
 
 # Update schedule
 schedule: "every week"
-
-# Search for requirement files
-search: True
 
 # Add a label to pull requests
 label_prs: update
