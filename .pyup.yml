@@ -13,7 +13,9 @@
 requirements:
   - docs/constraints.txt:
       update: all
+      pin: True
   - docs/requirements.txt:
+      update: False
       pin: False
 
 # Default Branch
