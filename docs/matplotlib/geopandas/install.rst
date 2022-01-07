@@ -25,4 +25,3 @@ Die Installation könnt ihr dann überprüfen mit:
 .. code-block:: python
 
     >>> import geopandas as gpd
-
