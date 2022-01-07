@@ -6,8 +6,8 @@ bereitstellen, z.B. mit:
 
 .. code-block:: console
 
-    $ spack env activate python-374
-    $ spack install py-bokeh ^python@3.7.4%gcc@9.1.0
+    $ spack env activate python-38
+    $ spack install py-pandas@1.3.4%gcc@11.2.0
 
 Alternativ könnt ihr pandas auch mit anderen Paketmanagern installieren, z.B.
 
