@@ -6,8 +6,8 @@ eurem Kernel bereitstellen, z.B. mit:
 
 .. code-block:: console
 
-    $ spack env activate python-374
-    $ spack install py-matplotlib ^python@3.7.4%gcc@9.1.0
+    $ spack env activate python-38
+    $   - py-matplotlib@3.4.3%gcc@11.2.0~animation~fonts+image~latex~movies
 
 Alternativ könnt ihr Matplotlib auch mit anderen Paketmanagern installieren, z.B.
 mit :doc:`jupyter-tutorial:productive/envs/pipenv/index`:
