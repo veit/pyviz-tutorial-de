@@ -45,4 +45,3 @@ Die Installation könnt ihr dann überprüfen mit:
 
         # iPython backend for matplotlib
         get_ipython().run_line_magic('matplotlib', 'inline')
-
