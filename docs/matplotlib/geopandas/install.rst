@@ -6,9 +6,8 @@ eurem Kernel bereitstellen, z.B. mit:
 
 .. code-block:: console
 
-    $ spack env activate python-374
-    $ spack install py-geopandas ^python@3.7.4%gcc@9.1.0
-
+    $ spack env activate python-38
+    $ spack install py-geopandas@0.9.0%gcc@11.2.0
 
 Alternativ könnt ihr GeoPandas auch mit anderen Paketmanagern installieren, z.B.
 mit :doc:`jupyter-tutorial:productive/envs/pipenv/index`:
