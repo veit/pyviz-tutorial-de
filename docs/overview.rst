@@ -544,5 +544,3 @@ ist:
 .. seealso::
     * `Jake VanderPlas: Python’s Visualization Landscape (PyCon 2017)
       <https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017>`_
-    * `Data visualization grid
-      <http://www.pythongrids.org/grids/g/data-visualization/>`_
