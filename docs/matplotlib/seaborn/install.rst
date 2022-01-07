@@ -24,4 +24,3 @@ Die Installation könnt ihr überprüfen mit
 .. code-block:: python
 
     >>> import seaborn as sns
-
