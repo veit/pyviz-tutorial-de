@@ -24,4 +24,3 @@ Die Installation könnt Ihr dann überprüfen mit:
 .. code-block:: python
 
     >>> import pandas as pd
-
