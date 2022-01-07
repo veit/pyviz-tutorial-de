@@ -6,8 +6,8 @@ eurem Kernel bereitstellen, z.B. mit:
 
 .. code-block:: console
 
-    $ spack env activate python-374
-    $ spack install py-seaborn ^python@3.7.4%gcc@9.1.0
+    $ spack env activate python-38
+    $ spack install py-seaborn@0.11.2%gcc@11.2.0
 
 Alternativ könnt ihr seaborn auch mit anderen Paketmanagern installieren, z.B.
 
