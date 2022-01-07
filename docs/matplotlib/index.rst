@@ -5,7 +5,7 @@ Matplotlib
 Python-Skripten, iPython-Shells und Jupyter-Notebooks verwendet werden kann.
 Mit ihr lassen sich Daten als Diagramme, Histogramme, Leistungsspektren,
 Balkendiagramme, Streudiagramme etc. visualisieren. Einen Überblick erhaltet ihr
-in `Gallery <https://matplotlib.org/gallery/index.html>`_. Es ist eine
+in `Gallery <https://matplotlib.org/stable/gallery/index.html>`_. Es ist eine
 Low-Level-Bibliothek mit einem Matlab ähnlichen Schnittstelle, die zwar
 einerseits viele Freiheiten bietet, andererseits jedoch viel Code erfordert.
 
