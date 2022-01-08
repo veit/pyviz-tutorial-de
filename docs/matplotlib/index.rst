@@ -45,7 +45,7 @@ einerseits viele Freiheiten bietet, andererseits jedoch viel Code erfordert.
     pandas/index
     geopandas/index
     seaborn/index
-    ggpy <https://github.com/yhat/ggpy>
+    ggpy <http://yhat.github.io/ggpy/>
     plotnine/index
     networkx.ipynb
     graphviz.ipynb
