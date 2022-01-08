@@ -80,4 +80,3 @@ Schließlich könnt ihr die Installation überprüfen mit:
 .. code-block:: python
 
     >>> import cartopy
-
