@@ -2,7 +2,7 @@ PdVega
 ======
 
 `PdVega <https://altair-viz.github.io/pdvega/>`_ ist eine Bibliothek, mit der
-interaktive `Vega-Lite <http://vega.github.io/vega-lite>`_-Plots aus
+interaktive `Vega-Lite <https://vega.github.io/vega-lite/>`_-Plots aus
 Pandas-Dataframes unter Verwendung der Pandas-`Plot
 <https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html>`_-API
 erstellt werden können.
