@@ -6,8 +6,8 @@ eurem Kernel bereitstellen, z.B. mit:
 
 .. code-block:: console
 
-    $ spack env activate python-374
-    $ spack install py-cartopy ^python@3.7.4%gcc@9.1.0
+    $ spack env activate python-38
+    $ spack install py-cartopy@0.18.0%gcc@11.2.0~epsg~ows~plotting
 
 Dies installiert Cartopy mit Unterstützung von:
 
