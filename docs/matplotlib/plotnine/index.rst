@@ -36,4 +36,3 @@ erlaubt die einfache Beschreibung auch von komplexen Grafiken.
 
     install
     examples.ipynb
-
