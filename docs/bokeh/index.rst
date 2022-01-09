@@ -43,9 +43,9 @@ Es gibt Erweiterungen für Bokeh für die folgenden Funktionen:
 `NodeJS <https://nodejs.org/>`_
     Notwendig zum Erweitern von Bokeh oder zum Definieren von
     ``CustomJS``-Implementierungen in CoffeeScript oder TypeScript.
-`Pandas <https://pandas.pydata.org/>`_
+`pandas <https://pandas.pydata.org/>`_
     Notwendig für die Hexbin-Funktion. Einige Anwendungen werden durch die
-    Verwendung von Pandas vereinfacht, z. B. werden Pandas DataFrames durch
+    Verwendung von pandas vereinfacht, z. B. werden pandas DataFrames durch
     Glyph-Funktionen automatisch in Bokeh-Datenquellen konvertiert.
 `Psutil <https://psutil.readthedocs.io/>`_
     Erforderlich, um eine detaillierte Speicherprotokollierung im Bokeh-Server
