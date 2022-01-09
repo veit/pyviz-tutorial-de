@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+folium = "*"
+plotnine = {extras = ["all"], version = "*"}
+pdvega = "*"
+vega3 = "*"
+vega-datasets = "*"
+hvplot = "*"
+intake = "*"
+intake-parquet = "*"
+python-snappy = "*"
+pyviz-comms = "*"
+intake-xarray = "*"
+datashader = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
