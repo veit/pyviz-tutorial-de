@@ -22,7 +22,7 @@ Canvas oder SVG generieren.
 
     Vincent <https://vincent.readthedocs.io/>
     Vega-Light <https://vega.github.io/vega-lite/>
-    Altair <https://altair-viz.github.io/>
+    altair
     Matplotlib Altair <https://matplotlib.org/mpl-altair/>
     pdvega/index
 
