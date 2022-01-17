@@ -17,6 +17,7 @@ pyviz-comms = "*"
 intake-xarray = "*"
 datashader = "*"
 geoviews = "*"
+altair = "*"
 
 [dev-packages]
 
