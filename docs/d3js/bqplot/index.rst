@@ -7,6 +7,12 @@ bqplot
 `bqplot <https://bqplot.readthedocs.io/>`_ basiert auf `The Grammar of Graphics
 (Statistics and Computing) <https://www.springer.com/gp/book/9780387245447>`_.
 
+.. seealso::
+
+   * `Docs <https://bqplot.readthedocs.io/>`_
+   * `GitHub <https://github.com/bqplot/bqplot>`_
+   * `Gallery <https://bqplot.github.io/bqplot-gallery/>`_
+
 Ziele
 -----
 
