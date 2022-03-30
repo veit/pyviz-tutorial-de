@@ -1,4 +1,5 @@
-# sphinx 4.3.2 has requirement docutils<0.18,>=0.14
+-c constraints.txt
+# sphinx 4.4.0 has requirement docutils<0.18,>=0.14
 docutils<0.18,>=0.14
 furo
 ipython
