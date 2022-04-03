@@ -36,7 +36,8 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.graphviz',
     'sphinx.ext.todo',
-    "sphinxcontrib.rsvgconverter"
+    "sphinxcontrib.rsvgconverter",
+    "sphinxext.opengraph"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
