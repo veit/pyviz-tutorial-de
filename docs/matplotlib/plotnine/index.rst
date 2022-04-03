@@ -1,7 +1,8 @@
 plotnine
 ========
 
-`plotnine <https://plotnine.readthedocs.io/>`_ implementiert `[200~The Grammar of Graphics <>https://link.springer.com/book/10.1007/0-387-28695-0`_ in Python
+`plotnine <https://plotnine.readthedocs.io/>`_ implementiert `The Grammar of
+Graphics <https://link.springer.com/book/10.1007/0-387-28695-0>`_ in Python
 basierend auf `ggplot2 <https://ggplot2.tidyverse.org/>`_. Die Grammatik erlaubt
 die einfache Beschreibung auch von komplexen Grafiken.
 
