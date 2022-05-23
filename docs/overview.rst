@@ -443,6 +443,16 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`mpld3 <https://github.com/mpld3/mpld3>`_",".. image:: https://raster.shields.io/github/stars/mpld3/mpld3",".. image:: https://raster.shields.io/github/contributors/mpld3/mpld3",".. image:: https://raster.shields.io/github/commit-activity/y/mpld3/mpld3",".. image:: https://raster.shields.io/github/license/mpld3/mpld3"
     "`ipympl <https://github.com/matplotlib/jupyter-matplotlib>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/jupyter-matplotlib",".. image:: https://raster.shields.io/github/contributors/matplotlib/jupyter-matplotlib",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/jupyter-matplotlib",".. image:: https://raster.shields.io/github/license/matplotlib/jupyter-matplotlib"
 
+.. csv-table:: GitHub-Insights: Farbkarten
+    :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
+
+    "`colorcet <https://github.com/holoviz/colorcet>`_",".. image:: https://raster.shields.io/github/stars/holoviz/colorcet",".. image:: https://raster.shields.io/github/contributors/holoviz/colorcet",".. image:: https://raster.shields.io/github/commit-activity/y/holoviz/colorcet",".. image:: https://raster.shields.io/github/license/holoviz/colorcet"
+    "`palettable <https://github.com/jiffyclub/palettable>`_",".. image:: https://raster.shields.io/github/stars/jiffyclub/palettable",".. image:: https://raster.shields.io/github/contributors/jiffyclub/palettable",".. image:: https://raster.shields.io/github/commit-activity/y/jiffyclub/palettable",".. image:: https://raster.shields.io/github/license/jiffyclub/palettable"
+    "`distinctipy <https://github.com/alan-turing-institute/distinctipy>`_",".. image:: https://raster.shields.io/github/stars/alan-turing-institute/distinctipy",".. image:: https://raster.shields.io/github/contributors/alan-turing-institute/distinctipy",".. image:: https://raster.shields.io/github/commit-activity/y/alan-turing-institute/distinctipy",".. image:: https://raster.shields.io/github/license/alan-turing-institute/distinctipy"
+    "`cmocean <https://github.com/matplotlib/cmocean>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/cmocean",".. image:: https://raster.shields.io/github/contributors/matplotlib/cmocean",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/cmocean",".. image:: https://raster.shields.io/github/license/matplotlib/cmocean"
+    "`cmcrameri <https://github.com/callumrollo/cmcrameri>`_",".. image:: https://raster.shields.io/github/stars/callumrollo/cmcrameri",".. image:: https://raster.shields.io/github/contributors/callumrollo/cmcrameri",".. image:: https://raster.shields.io/github/commit-activity/y/callumrollo/cmcrameri",".. image:: https://raster.shields.io/github/license/callumrollo/cmcrameri"
+    "`CMasher <https://github.com/1313e/CMasher>`_",".. image:: https://raster.shields.io/github/stars/1313e/CMasher",".. image:: https://raster.shields.io/github/contributors/1313e/CMasher",".. image:: https://raster.shields.io/github/commit-activity/y/1313e/CMasher",".. image:: https://raster.shields.io/github/license/1313e/CMasher"
+
 .. csv-table:: GitHub-Insights: Ruhende Projekte (Stand: 11.04.2020)
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
