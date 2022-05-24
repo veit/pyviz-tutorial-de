@@ -38,7 +38,8 @@ extensions = [
     'sphinx.ext.todo',
     "sphinxcontrib.rsvgconverter",
     "sphinxext.opengraph",
-    "sphinx_copybutton"
+    "sphinx_copybutton",
+    "sphinx_inline_tabs"
 ]
 
 # Add any paths that contain templates here, relative to this directory.

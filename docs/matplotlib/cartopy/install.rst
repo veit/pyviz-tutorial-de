@@ -1,46 +1,50 @@
 Cartopy-Installation
 ====================
 
-Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Cartopy in
-eurem Kernel bereitstellen, z.B. mit:
+.. tab:: Spack
 
-.. code-block:: console
+   Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Cartopy in
+   urem Kernel bereitstellen, z.B. mit:
 
-    $ spack env activate python-38
-    $ spack install py-cartopy@0.18.0%gcc@11.2.0~epsg~ows~plotting
+   .. code-block:: console
 
-Dies installiert Cartopy mit Unterstützung von:
+       $ spack env activate python-38
+       $ spack install py-cartopy@0.18.0%gcc@11.2.0~epsg~ows~plotting
 
-* `epsg <_epsg.io>`_
-* `Open Geospatial Consortium (OGC) <Geospatial Consortium (OGC>`_
-* Plot-Funktionalität
+   Dies installiert Cartopy mit Unterstützung von:
 
-Zusätzlich werden folgende Pakete mitinstalliert:
+   * `epsg <_epsg.io>`_
+   * `Open Geospatial Consortium (OGC) <Geospatial Consortium (OGC>`_
+   * Plot-Funktionalität
 
-* `gdal <https://gdal.org/>`_
-* :doc:`/matplotlib/index`
-* `OWSLib <https://geopython.github.io/OWSLib/>`_
-* `Pillow <https://pillow.readthedocs.io/>`_
-* `pyepsg <https://pyepsg.readthedocs.io/>`_
-* `PyShp <https://github.com/GeospatialPython/pyshp>`_
-* `shapely <https://shapely.readthedocs.io/>`_
-* `six <https://pythonhosted.org/six>`_
+   Zusätzlich werden folgende Pakete mitinstalliert:
 
-Alternativ könnt ihr Cartopy auch mit anderen Paketmanagern installieren, z.B.
-für  Debian≥9 (Stretch) mit:
+   * `gdal <https://gdal.org/>`_
+   * :doc:`/matplotlib/index`
+   * `OWSLib <https://geopython.github.io/OWSLib/>`_
+   * `Pillow <https://pillow.readthedocs.io/>`_
+   * `pyepsg <https://pyepsg.readthedocs.io/>`_
+   * `PyShp <https://github.com/GeospatialPython/pyshp>`_
+   * `shapely <https://shapely.readthedocs.io/>`_
+   * `six <https://pythonhosted.org/six>`_
 
-.. code-block:: console
+.. tab:: Linux
 
-    $ sudo apt install proj-bin
-    $ sudo apt install libproj-dev
-    $ sudo apt install libgeos-dev
+   Cartopy kann alternativ auch mit Linux-Paketmanagern installiert werden,
+   :abbr:`z.B. (zum Beispiel)` für  Debian≥9 (Stretch) mit:
 
-Oder für Mac OS X mit:
+   .. code-block:: console
 
-.. code-block:: console
+       $ sudo apt install proj-bin
+       $ sudo apt install libproj-dev
+       $ sudo apt install libgeos-dev
 
-    $ brew install proj
-    $ brew install geos
+.. tab:: macOS
+
+   .. code-block:: console
+
+       $ brew install proj
+       $ brew install geos
 
 Anschließend kann Cartopy für euren Kernel installiert werden, z.B. mit:
 
