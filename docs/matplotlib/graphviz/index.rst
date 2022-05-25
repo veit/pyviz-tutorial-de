@@ -59,3 +59,4 @@ Installation
     :hidden:
 
     examples.ipynb
+    libs-tools
