@@ -48,7 +48,7 @@ einerseits viele Freiheiten bietet, andererseits jedoch viel Code erfordert.
     ggpy <http://yhat.github.io/ggpy/>
     plotnine/index
     networkx.ipynb
-    graphviz.ipynb
+    graphviz/index
     graph-tool.ipynb
     cartopy/index
     iris
