@@ -467,7 +467,6 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
 Weitere Informationen über Lizenzen erhaltet ihr im unserem :doc:`Jupyter
 Tutorial <jupyter-tutorial:productive/licensing>`.
 
-
 Diagrammtypen
 -------------
 
@@ -520,6 +519,17 @@ Diagrammtypen
   * `HoloViews <http://holoviews.org/>`__
   * :doc:`js/ipyvolume`
   * :doc:`matplotlib/mpl-scatter-density`
+
+.. seealso::
+
+   * `Graphical Perception: Theory, Experimentation, and Application to the
+     Development of Graphical Methods
+     <https://www.math.pku.edu.cn/teachers/xirb/Courses/biostatistics/Biostatistics2016/GraphicalPerception_Jasa1984.pdf>`_
+   * `Financial Times Chart Doctor: Visual vocabluary
+     <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>`_
+   * `The Data Visualisation Catalogue <https://datavizcatalogue.com/>`_
+   * `Cartography Guide <https://www.axismaps.com/guide/map-projections>`_
+   * `Xenographics <https://www.xeno.graphics/>`_
 
 Datengröße
 ----------
