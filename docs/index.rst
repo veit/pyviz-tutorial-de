@@ -7,7 +7,7 @@ Python
 
 Aktuell ist es sehr schwierig, einen :doc:`overview` zu erhalten. Im Folgenden
 versuchen wir, die Suche nach der passenden Bibliothek zu vereinfachen, indem
-wir einige Aspekte genauer beleuchte:
+wir einige Aspekte genauer beleuchten:
 
 * :ref:`/overview.rst#technologien`
 * :ref:`/overview.rst#aktivitaten-und-lizenzen`
