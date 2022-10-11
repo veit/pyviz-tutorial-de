@@ -1,10 +1,7 @@
 -c constraints.txt
-# -c constraints.txt
 furo
 ipython
 ipywidgets
-numpy
-Pillow
 nbsphinx
 sphinxcontrib-svg2pdfconverter[CairoSVG]
 sphinxext-opengraph
