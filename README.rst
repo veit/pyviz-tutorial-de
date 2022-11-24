@@ -11,7 +11,10 @@ Schnelleinstieg
    :target: https://pyviz-tutorial.readthedocs.io/de/latest/
 .. |Pyup| image:: https://pyup.io/repos/github/veit/pyviz-tutorial/shield.svg
    :target: https://pyup.io/repos/github/veit/pyviz-tutorial/
- 
+.. image:: https://img.shields.io/badge/dynamic/json?label=Mastodon&query=totalItems&url=https%3A%2F%2Fmastodon.social%2F@PyViz%2Ffollowers.json&logo=mastodon
+   :alt: Mastodon
+   :target: https://mastodon.social/@PyViz
+
 Installation
 ------------
 
