@@ -27,6 +27,30 @@ Technologien
             color="#FF66B3",
             target="_top",
             href="http://vispy.org/"]
+        mayavi [
+            label="Mayavi",
+            tooltip="Python-Bibliothek für die\n3D-Visualisierung\nwissenschaftlicher Daten",
+            color="#FF66B3",
+            target="_top",
+            href="http://docs.enthought.com/mayavi/mayavi/"]
+        itkwidgets [
+            label="itkwidgets",
+            tooltip="Interaktive Jupyter-Widgets\nzur Visualisierung von Bildern,\nPunktmengen und Netzen\nin 2D und 3D",
+            color="#FF66B3",
+            target="_top",
+            href="https://itkwidgets.readthedocs.io/en/latest/"]
+        vedo [
+            label="vedo",
+            tooltip="Python-Modul für die\nwissenschaftliche\nAnalyse von 3D-Daten",
+            color="#FF66B3",
+            target="_top",
+            href="https://vedo.embl.es"]
+        polyscope [
+            label="Polyscope",
+            tooltip="Ein C++ und Python-Viewer\nfür 3D-Daten wie Netze\nund Punktwolken",
+            color="#FF66B3",
+            target="_top",
+            href="https://polyscope.run"]
         glumpy [
             label="Glumpy",
             tooltip="Schnittstelle zwischen\nnumpy und OpenGL",
@@ -34,6 +58,10 @@ Technologien
             target="_top",
             href="https://glumpy.github.io/"]
         opengl -- vispy [color="#FF66B3"]
+        opengl -- mayavi [color="#FF66B3"]
+        opengl -- itkwidgets [color="#FF66B3"]
+        opengl -- vedo [color="#FF66B3"]
+        opengl -- polyscope[color="#FF66B3"]
         opengl -- glumpy [color="#FF66B3"]
 
         // Matplotlib
@@ -432,6 +460,10 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
     "`vispy <https://github.com/vispy/vispy>`_",".. image:: https://raster.shields.io/github/stars/vispy/vispy",".. image:: https://raster.shields.io/github/contributors/vispy/vispy",".. image:: https://raster.shields.io/github/commit-activity/y/vispy/vispy",".. image:: https://raster.shields.io/github/license/vispy/vispy"
+    "`Mayavi <polyscope>`_",".. image:: https://raster.shields.io/github/stars/enthought/mayavi",".. image:: https://raster.shields.io/github/contributors/enthought/mayavi",".. image:: https://raster.shields.io/github/commit-activity/y/enthought/mayavi",".. image:: https://raster.shields.io/github/license/enthought/mayavi"
+    "`iitkwidgets <https://github.com/InsightSoftwareConsortium/itkwidgets>`_",".. image:: https://raster.shields.io/github/stars/InsightSoftwareConsortium/itkwidgets",".. image:: https://raster.shields.io/github/contributors/InsightSoftwareConsortium/itkwidgets",".. image:: https://raster.shields.io/github/commit-activity/y/InsightSoftwareConsortium/itkwidgets",".. image:: https://raster.shields.io/github/license/InsightSoftwareConsortium/itkwidgets"
+    "`vedo <https://github.com/marcomusy/vedo>`_",".. image:: https://raster.shields.io/github/stars/marcomusy/vedo",".. image:: https://raster.shields.io/github/contributors/marcomusy/vedo",".. image:: https://raster.shields.io/github/commit-activity/y/marcomusy/vedo",".. image:: https://raster.shields.io/github/license/marcomusy/vedo"
+    "`polyscope <https://github.com/nmwsharp/polyscope>`_",".. image:: https://raster.shields.io/github/stars/nmwsharp/polyscope",".. image:: https://raster.shields.io/github/contributors/nmwsharp/polyscope",".. image:: https://raster.shields.io/github/commit-activity/y/nmwsharp/polyscope",".. image:: https://raster.shields.io/github/license/nmwsharp/polyscope"
     "`glumpy <https://github.com/glumpy/glumpy>`_",".. image:: https://raster.shields.io/github/stars/glumpy/glumpy",".. image:: https://raster.shields.io/github/contributors/glumpy/glumpy",".. image:: https://raster.shields.io/github/commit-activity/y/glumpy/glumpy",".. image:: https://raster.shields.io/github/license/glumpy/glumpy"
 
 .. csv-table:: GitHub-Insights: Weitere Bibliotheken
