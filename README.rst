@@ -1,12 +1,14 @@
 Schnelleinstieg
 ===============
 
-|Contributors| |License| |Docs| |Pyup|
+|Contributors| |License| |pre-commit.ci status| |Docs| |Pyup|
 
 .. |Contributors| image:: https://img.shields.io/github/contributors/veit/pyviz-tutorial.svg
    :target: https://github.com/veit/pyviz-tutorial/graphs/contributors
 .. |License| image:: https://img.shields.io/github/license/veit/pyviz-tutorial.svg
    :target: https://github.com/veit/pyviz-tutorial/blob/master/LICENSE
+.. |pre-commit.ci status| image:: https://results.pre-commit.ci/badge/github/veit/pyviz-tutorial/main.svg
+   :target: https://results.pre-commit.ci/latest/github/veit/pyviz-tutorial/main
 .. |Docs| image:: https://readthedocs.org/projects/pyviz-tutorial/badge/?version=latest
    :target: https://pyviz-tutorial.readthedocs.io/de/latest/
 .. |Pyup| image:: https://pyup.io/repos/github/veit/pyviz-tutorial/shield.svg
@@ -110,4 +112,3 @@ einen `Fork <https://github.com/veit/pyviz-tutorial/fork>`_ meines
 und darin eure Änderungen vorzunehmen. Gerne dürft ihr auch einen *Pull Request*
 stellen. Sofern die darin enthaltenen Änderungen klein und atomar sind, schaue ich
 mir eure Vorschläge gerne an.
-
