@@ -1,17 +1,20 @@
 Schnelleinstieg
 ===============
 
-|Contributors| |License| |pre-commit.ci status| |Docs| |Pyup|
-
-.. |Contributors| image:: https://img.shields.io/github/contributors/veit/pyviz-tutorial.svg
+.. image:: https://img.shields.io/github/contributors/veit/pyviz-tutorial.svg
+   :alt: Contributors
    :target: https://github.com/veit/pyviz-tutorial/graphs/contributors
-.. |License| image:: https://img.shields.io/github/license/veit/pyviz-tutorial.svg
+.. image:: https://img.shields.io/github/license/veit/pyviz-tutorial.svg
+   :alt: License
    :target: https://github.com/veit/pyviz-tutorial/blob/master/LICENSE
-.. |pre-commit.ci status| image:: https://results.pre-commit.ci/badge/github/veit/pyviz-tutorial/main.svg
+.. image:: https://results.pre-commit.ci/badge/github/veit/pyviz-tutorial/main.svg
+   :alt: pre-commit.ci status
    :target: https://results.pre-commit.ci/latest/github/veit/pyviz-tutorial/main
-.. |Docs| image:: https://readthedocs.org/projects/pyviz-tutorial/badge/?version=latest
+.. image:: https://readthedocs.org/projects/pyviz-tutorial/badge/?version=latest
+   :alt: Docs
    :target: https://pyviz-tutorial.readthedocs.io/de/latest/
-.. |Pyup| image:: https://pyup.io/repos/github/veit/pyviz-tutorial/shield.svg
+.. image:: https://pyup.io/repos/github/veit/pyviz-tutorial/shield.svg
+   :alt: Pyup
    :target: https://pyup.io/repos/github/veit/pyviz-tutorial/
 .. image:: https://img.shields.io/badge/dynamic/json?label=Mastodon&query=totalItems&url=https%3A%2F%2Fmastodon.social%2F@PyViz%2Ffollowers.json&logo=mastodon
    :alt: Mastodon
