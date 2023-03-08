@@ -15,4 +15,3 @@ ohne z.B. :doc:`../d3js/index` zu nutzen:
     Toyplot <https://toyplot.readthedocs.io/>
     ipyleaflet.ipynb
     xarray-leaflet.ipynb
-

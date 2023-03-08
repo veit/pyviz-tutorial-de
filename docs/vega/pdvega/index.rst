@@ -20,4 +20,3 @@ erstellt werden können.
 
     install
     examples.ipynb
-

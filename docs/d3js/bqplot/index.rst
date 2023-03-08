@@ -39,4 +39,3 @@ Kontextbasierte API
     bq-mark-interactions.ipynb
     bq-selectors.ipynb
     bq-special-widgets.ipynb
-

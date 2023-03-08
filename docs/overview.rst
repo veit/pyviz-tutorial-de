@@ -8,7 +8,7 @@ Technologien
    :layout: neato
 
     graph python_visualisation_landscape {
-        
+
     graph [fontname = "Calibri", fontsize="16", overlap=false];
         node [fontname = "Calibri", fontsize="16", style="bold", penwidth="5px"];
         edge [fontname = "Calibri", fontsize="16", style="bold", penwidth="5px"];
@@ -567,7 +567,7 @@ Datengröße
 ----------
 
 Die Architektur und die zugrundeliegende Technologie für jede Bibliothek
-bestimmen die unterstützten Datengrößen und somit, ob die Bibliothek für 
+bestimmen die unterstützten Datengrößen und somit, ob die Bibliothek für
 mehrdimensionale Arrays, lange Zeitreihen oder andere große Datasets geeignet
 ist:
 
@@ -582,7 +582,7 @@ ist:
   :doc:`jupyter-tutorial:workspace/jupyter/ipywidgets/index`, :doc:`bokeh/index`
   und `Plotly <https://github.com/plotly/plotly.py>`_ nutzen statt JSON jedoch
   spezielle Transportmechanismen für Binärdaten, sodass sie hunderttausende bis
-  Millionen von Datenpunkten verarbeiten können. 
+  Millionen von Datenpunkten verarbeiten können.
 
   Andere Bibliotheken wie :doc:`js/ipyvolume`, `Plotly
   <https://github.com/plotly/plotly.py>`_ und in einigen Fällen :doc:`bokeh/index`

@@ -24,4 +24,3 @@ konsistente API zum Plotten von allen oben genannten Formaten bietet.
 
     install
     examples.ipynb
-

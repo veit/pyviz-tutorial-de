@@ -30,7 +30,7 @@ Die Installation könnt ihr dann überprüfen mit:
     Wenn ihr den Fehler ``TclError: no display name and no $DISPLAY
     environment variable`` erhaltet, müsst ihr vermutlich das iPython Backend
     für Matplotlib verwenden mit
-    
+
      .. code-block:: python
 
         import matplotlib.pyplot as plt

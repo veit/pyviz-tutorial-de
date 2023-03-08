@@ -24,4 +24,3 @@ die verschiedenen Projektionen umzurechnen.
 
     install
     examples.ipynb
-

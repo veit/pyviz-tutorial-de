@@ -15,4 +15,3 @@ Plotten von Pandas-Dataframes und -Zeitreihen.
 
     install
     example.ipynb
-

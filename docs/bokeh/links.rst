@@ -11,4 +11,3 @@ Links
   * `cdn.pydata.org/bokeh/examples/examples-x.y.z.zip <https://cdn.pydata.org/bokeh/examples/examples-1.0.4.zip>`_
 
 * `Source code <https://github.com/bokeh/bokeh>`_
-

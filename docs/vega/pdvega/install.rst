@@ -16,7 +16,7 @@ PdVega kann installiert werden mit
     - Validating: OK
 
         To initialize this nbextension in the browser every time the notebook (or other app) loads:
-        
+
               jupyter nbextension enable vega3 --py --sys-prefix
 
 .. seealso::

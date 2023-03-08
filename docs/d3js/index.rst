@@ -12,4 +12,3 @@ wird:
     bqplot/index
     d3po <https://github.com/adamlabadorf/d3po>
     mpld3 <https://mpld3.github.io/>
-

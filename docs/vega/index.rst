@@ -25,4 +25,3 @@ Canvas oder SVG generieren.
     altair
     Matplotlib Altair <https://matplotlib.org/mpl-altair/>
     pdvega/index
-

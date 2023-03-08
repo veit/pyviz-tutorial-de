@@ -14,4 +14,3 @@ werden mit
 .. code:: console
 
     $ pipenv install 'plotnine[all]'
-

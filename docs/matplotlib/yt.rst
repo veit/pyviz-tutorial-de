@@ -43,7 +43,7 @@ Beispiel
     In Version 3.3 von yt wurde ein experimenteller hardware-beschleunigter
     interaktiver Volume-Renderer eingeführt. Um die `Interactive Data
     Visualization (IDV)
-    <https://yt-project.org/doc/visualizing/interactive_data_visualization.html>`_ 
+    <https://yt-project.org/doc/visualizing/interactive_data_visualization.html>`_
     verwenden zu können, müssen zusätzlich `PyOpenGL
     <https://pypi.python.org/pypi/PyOpenGL>`_ und `cyglfw3
     <https://pypi.python.org/pypi/cyglfw3/>`_ mit ihren jeweiligen
@@ -54,4 +54,3 @@ Beispiel
    - `Cookbook <https://yt-project.org/doc/cookbook/index.html>`_
    - `Docs <https://yt-project.org/doc/>`_
    - `Extensions <https://yt-project.org/extensions.html>`_
-
