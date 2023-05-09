@@ -14,6 +14,7 @@ verwendet GeoPandas `Fiona <https://fiona.readthedocs.io/>`_ und zum Plotten
    - `GeoPandas Introduction
      <https://geohackweek.github.io/vector/04-geopandas-intro/>`_
    - `dask-geopandas <https://github.com/geopandas/dask-geopandas>`_
+   - `MovingPandas <https://movingpandas.org/index>`_
 
 .. toctree::
     :titlesonly:
