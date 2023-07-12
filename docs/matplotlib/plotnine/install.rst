@@ -13,4 +13,16 @@ werden mit
 
 .. code:: console
 
-    $ pipenv install 'plotnine[all]'
+    $ pipenv install "plotnine[all]"
+
+.. tab:: Jupyter-Notebooks
+
+   .. code:: console
+
+      $ jupyter nbextension enable --py widgetsnbextension
+
+.. tab:: JupyterLab
+
+   .. code:: console
+
+      $ jupyter labextension install @jupyter-widgets/jupyterlab-manager

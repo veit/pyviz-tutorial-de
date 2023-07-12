@@ -20,7 +20,7 @@ Einheitliches Framework für 2D-Visualisierungen
    mit einer Pythonic-API
 Erweiterbare API
    erlaubt das Hinzufügen von User Interactions (Verschieben, Zoomen, Auswahl
-   usw.)
+   :abbr:`usw. (und so weiter)`)
 Benutzerdefinierte API
     Benutzer können eigene Visualisierungen mithilfe des internen Objektmodells
     erstellen, das von The Grammar of Graphics inspiriert ist (figure, marks,

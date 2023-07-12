@@ -2,14 +2,15 @@ seaborn-Installation
 ====================
 
 Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr seaborn in
-eurem Kernel bereitstellen, z.B. mit:
+eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
 
     $ spack env activate python-38
     $ spack install py-seaborn@0.11.2%gcc@11.2.0
 
-Alternativ könnt ihr seaborn auch mit anderen Paketmanagern installieren, z.B.
+Alternativ könnt ihr seaborn auch mit anderen Paketmanagern installieren,
+:abbr:`z.B. (zum Beispiel)
 
 .. code-block:: console
 

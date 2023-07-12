@@ -14,14 +14,14 @@ Installation
 
    .. code:: console
 
-      $ spack env activate python-374
+      $ spack env activate python-311
       $ spack env status
-      ==> In environment python-374
-      $ spack install py-graphviz ^python@3.7.4%gcc@9.1.0
+      ==> In environment python-311
+      $ spack install py-graphviz
       …
       ==> Successfully installed py-graphviz
       …
-      ==> Updating view at /srv/jupyter/spack/var/spack/environments/python-374/.spack-env/view
+      ==> Updating view at /srv/jupyter/spack/var/spack/environments/python-311/.spack-env/view
 
 .. tab:: Debian/Ubuntu
 

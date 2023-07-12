@@ -1,15 +1,16 @@
 pandas-Installation
 ===================
 
-Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr pandas in eurem Kernel
-bereitstellen, z.B. mit:
+Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr pandas in
+eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
 
     $ spack env activate python-38
     $ spack install py-pandas@1.3.4%gcc@11.2.0
 
-Alternativ könnt ihr pandas auch mit anderen Paketmanagern installieren, z.B.
+Alternativ könnt ihr pandas auch mit anderen Paketmanagern installieren,
+:abbr:`z.B. (zum Beispiel)`
 
 .. code-block:: console
 

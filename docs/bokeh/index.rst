@@ -13,23 +13,24 @@ die für erweiterbare Anpassungen erforderlich sind, stellt Bokeh zwei
 Interfaces zur Verfügung:
 
 :ref:`bokeh.models <bokeh:bokeh.models>`
-    Ein Low-Level-Interface, das Anwendungsentwicklern die größtmögliche
-    Flexibilität bietet.
+    Low-Level-Interface, das Anwendungsentwicklern die größtmögliche
+    Flexibilität bietet
 :ref:`bokeh.plotting <bokeh:bokeh.models_plots>`
-    Ein High-Level-Interface für die Erstllung visueller Glyphen.
+    High-Level-Interface für die Erstllung visueller Glyphen
 
 Installation
 ------------
 
 Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Bokeh in
-eurem Kernel bereitstellen, z.B. mit:
+eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
 
-    $ spack env activate python-38
-    $ spack install   - py-bokeh@2.4.1%gcc@11.2.0
+    $ spack env activate python-311
+    $ spack install   py-bokeh
 
-Alternativ könnt ihr Bokeh auch mit anderen Paketmanagern installieren, z.B.
+Alternativ könnt ihr Bokeh auch mit anderen Paketmanagern installieren,
+:abbr:`z.B. (zum Beispiel)`
 
 .. code-block:: console
 
@@ -42,19 +43,19 @@ Es gibt Erweiterungen für Bokeh für die folgenden Funktionen:
 
 `NodeJS <https://nodejs.org/>`_
     Notwendig zum Erweitern von Bokeh oder zum Definieren von
-    ``CustomJS``-Implementierungen in CoffeeScript oder TypeScript.
+    ``CustomJS``-Implementierungen in CoffeeScript oder TypeScript
 `pandas <https://pandas.pydata.org/>`_
     Notwendig für die Hexbin-Funktion. Einige Anwendungen werden durch die
     Verwendung von pandas vereinfacht, z. B. werden pandas DataFrames durch
-    Glyph-Funktionen automatisch in Bokeh-Datenquellen konvertiert.
+    Glyph-Funktionen automatisch in Bokeh-Datenquellen konvertiert
 `Psutil <https://psutil.readthedocs.io/>`_
     Erforderlich, um eine detaillierte Speicherprotokollierung im Bokeh-Server
-    zu ermöglichen.
+    zu ermöglichen
 `NetworkX <https://networkx.github.io/>`_
     Mit ``from_networkx`` lässt sich der Bokeh-Diagrammrenderer direkt auf
-    NetworkX-Daten anwenden.
+    NetworkX-Daten anwenden
 `Selenium <https://www.seleniumhq.org/>`_, `PhantomJS <http://phantomjs.org/>`_
-    Notwendig für das Exportieren von Plots in PNG- und SVG-Bilder.
+    Notwendig für das Exportieren von Plots in PNG- und SVG-Bilder
 
 Beispiele
 ---------

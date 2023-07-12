@@ -2,15 +2,16 @@ GeoPandas-Installation
 ======================
 
 Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr GeoPandas in
-eurem Kernel bereitstellen, z.B. mit:
+eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
 
     $ spack env activate python-38
     $ spack install py-geopandas@0.9.0%gcc@11.2.0
 
-Alternativ könnt ihr GeoPandas auch mit anderen Paketmanagern installieren, z.B.
-mit :doc:`jupyter-tutorial:productive/envs/pipenv/index`:
+Alternativ könnt ihr GeoPandas auch mit anderen Paketmanagern installieren,
+:abbr:`z.B. (zum Beispiel)` mit
+:doc:`jupyter-tutorial:productive/envs/pipenv/index`:
 
 .. code-block:: console
 

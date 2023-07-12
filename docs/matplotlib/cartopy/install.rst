@@ -4,7 +4,7 @@ Cartopy-Installation
 .. tab:: Spack
 
    Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Cartopy in
-   urem Kernel bereitstellen, z.B. mit:
+   urem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
    .. code-block:: console
 
@@ -46,7 +46,8 @@ Cartopy-Installation
        $ brew install proj
        $ brew install geos
 
-Anschließend kann Cartopy für euren Kernel installiert werden, z.B. mit:
+Anschließend kann Cartopy für euren Kernel installiert werden, :abbr:`z.B. (zum
+Beispiel)` mit:
 
 .. code-block:: console
 

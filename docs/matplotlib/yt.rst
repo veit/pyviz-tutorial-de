@@ -14,7 +14,7 @@ Installation
    Falls ihr pipenv noch nicht installiert hab, findet ihr eine Anleitung hierzu
    unter :ref:`pipenv-installieren`.
 
-Die Installation könnt Ihr dann überprüfen mit:
+Die Installation könnt ihr dann überprüfen mit:
 
 .. code-block:: console
 

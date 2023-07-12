@@ -12,7 +12,7 @@ wir einige Aspekte genauer beleuchten:
 * :ref:`/overview.rst#technologien`
 * :ref:`/overview.rst#aktivitaten-und-lizenzen`
 * :ref:`/overview.rst#diagrammtypen` (Statistische Darstellungen,
-  regelmäßige und unregelmäßige Gitter etc.)
+  regelmäßige und unregelmäßige Gitter :abbr:`etc. (et cetera)`)
 * :ref:`/overview.rst#datengrosze`
 
 Anschließend geben wir eine praktische Einführung in die meisten Bibliotheken.

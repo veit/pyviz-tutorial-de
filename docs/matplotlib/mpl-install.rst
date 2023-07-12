@@ -2,23 +2,24 @@ Matplotlib-Installation
 =======================
 
 Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Matplotlib in
-eurem Kernel bereitstellen, z.B. mit:
+eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
 
     $ spack env activate python-38
     $   - py-matplotlib@3.4.3%gcc@11.2.0~animation~fonts+image~latex~movies
 
-Alternativ könnt ihr Matplotlib auch mit anderen Paketmanagern installieren, z.B.
-mit :doc:`jupyter-tutorial:productive/envs/pipenv/index`:
+Alternativ könnt ihr Matplotlib auch mit anderen Paketmanagern installieren,
+:abbr:`z.B. (zum Beispiel)` mit
+:doc:`jupyter-tutorial:productive/envs/pipenv/index`:
 
 .. code-block:: console
 
     $ pipenv install matplotlib
 
 .. note::
-   Falls ihr pipenv noch nicht installiert hab, findet ihr eine Anleitung hierzu
-   unter :ref:`pipenv-installieren`.
+   Falls ihr pipenv noch nicht installiert habt, findet ihr eine Anleitung
+   hierzu unter :ref:`pipenv-installieren`.
 
 Die Installation könnt ihr dann überprüfen mit:
 
@@ -39,9 +40,12 @@ Die Installation könnt ihr dann überprüfen mit:
         %matplotlib inline
 
     Sofern Ihr Matplotlib in einer Python-Datei importiert, müsst ihr
-    stattdessen folgendes einfügen::
+    stattdessen folgendes einfügen:
+
+     .. code-block:: python
 
         import matplotlib.pyplot as plt
 
+
         # iPython backend for matplotlib
-        get_ipython().run_line_magic('matplotlib', 'inline')
+        get_ipython().run_line_magic("matplotlib", "inline")
