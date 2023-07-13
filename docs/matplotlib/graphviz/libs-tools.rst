@@ -21,7 +21,7 @@ Netzwerk-Tools
 
 `dnsviz <https://github.com/dnsviz/dnsviz>`_
     Tool-Suite zur Analyse und Visualisierung des :abbr:`DNS (Domain Name
-    Systems), einschließlich seiner Sicherheitserweiterungen (DNSSEC)
+    Systems)`, einschließlich seiner Sicherheitserweiterungen (DNSSEC)
 `TraceViz <http://hokstad.com/traceviz-visualizing-traceroute-output-with-graphivz>`_
     Visualisierung der Traceroute-Ausgabe mit Graphivz
 `Safe Mapping and Reporting Tool (SMART) <https://sourceforge.net/projects/safemap/>`_
@@ -38,13 +38,13 @@ Netzwerk-Tools
     visualisiert Serververbindungen anhand der Netstat-Ausgabe
 `Kafka Streams Topology Visualizer <https://github.com/zz85/kafka-streams-viz>`_
     visualisiert Kafka-Streams-Topologien mithilfe von `Viz.js
-    <https://github.com/mdaines/viz.js/>`_ und `Rough.js
+    <https://viz-js.com>`_ und `Rough.js
     <https://github.com/rough-stuff/rough>`_
 
 Konfigurationsmanagement
 ------------------------
 
-`terraform graph <https://www.terraform.io/cli/commands/graph>`_
+`terraform graph <https://developer.hashicorp.com/terraform/cli/commands/graph>`_
     überführt die Konfiguration in eine DOT-Datei
 `Ansible Playbook Grapher <https://github.com/haidaraM/ansible-playbook-grapher>`_
     Kommandozeilentool, um ein Diagramm aus Ansible Playbooks zu erstellen

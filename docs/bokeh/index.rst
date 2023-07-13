@@ -1,7 +1,7 @@
 Bokeh
 =====
 
-`Bokeh <https://bokeh.pydata.org/>`_ ist eine interaktive
+`Bokeh <https://docs.bokeh.org/en/latest/>`_ ist eine interaktive
 Visualisierungsbibliothek für moderne Webbrowser. Ihr Ziel ist es, vielseitige
 Grafiken bereitzustellen und diese Fähigkeit durch performante Interaktivität
 auf sehr große und Streaming-Datasets zu erweitern. Bokeh ist hilfreich um
@@ -21,7 +21,7 @@ Interfaces zur Verfügung:
 Installation
 ------------
 
-Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Bokeh in
+Mit :doc:`python4datascience:productive/envs/spack/index` könnt ihr Bokeh in
 eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
@@ -41,20 +41,20 @@ Optionale Erweiterungen
 
 Es gibt Erweiterungen für Bokeh für die folgenden Funktionen:
 
-`NodeJS <https://nodejs.org/>`_
+`NodeJS <https://nodejs.org/de>`_
     Notwendig zum Erweitern von Bokeh oder zum Definieren von
     ``CustomJS``-Implementierungen in CoffeeScript oder TypeScript
 `pandas <https://pandas.pydata.org/>`_
     Notwendig für die Hexbin-Funktion. Einige Anwendungen werden durch die
     Verwendung von pandas vereinfacht, z. B. werden pandas DataFrames durch
     Glyph-Funktionen automatisch in Bokeh-Datenquellen konvertiert
-`Psutil <https://psutil.readthedocs.io/>`_
+`Psutil <https://psutil.readthedocs.io/en/latest/>`_
     Erforderlich, um eine detaillierte Speicherprotokollierung im Bokeh-Server
     zu ermöglichen
-`NetworkX <https://networkx.github.io/>`_
+`NetworkX <https://networkx.org>`_
     Mit ``from_networkx`` lässt sich der Bokeh-Diagrammrenderer direkt auf
     NetworkX-Daten anwenden
-`Selenium <https://www.seleniumhq.org/>`_, `PhantomJS <http://phantomjs.org/>`_
+`Selenium <https://www.selenium.dev/>`_, `PhantomJS <https://phantomjs.org/>`_
     Notwendig für das Exportieren von Plots in PNG- und SVG-Bilder
 
 Beispiele

@@ -7,8 +7,8 @@ Links
 * :doc:`Reference Guide <bokeh:docs/reference>`
 * Examples
 
-  * `github.com/bokeh/bokeh/tree/master/examples
-    <https://github.com/bokeh/bokeh/tree/master/examples/>`_
+  * `github.com/bokeh/bokeh/tree/main/examples
+    <https://github.com/bokeh/bokeh/tree/main/examples>`_
   * `cdn.pydata.org/bokeh/examples/examples-x.y.z.zip
     <https://cdn.pydata.org/bokeh/examples/examples-1.0.4.zip>`_
 

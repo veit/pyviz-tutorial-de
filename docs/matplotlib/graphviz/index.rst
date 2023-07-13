@@ -9,8 +9,8 @@ Installation
 
 .. tab:: Spack
 
-   Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Graphviz in
-   eurem Kernel bereitstellen:
+   Mit :doc:`python4datascience:productive/envs/spack/index` könnt ihr Graphviz
+   in eurem Kernel bereitstellen:
 
    .. code:: console
 
@@ -40,7 +40,7 @@ Installation
 
 .. tab:: macOS
 
-   Zunächst wird Graphviz mit `Homebrew <http://brew.sh/>`_ installiert:
+   Zunächst wird Graphviz mit `Homebrew <https://brew.sh/>`_ installiert:
 
    .. code:: console
 

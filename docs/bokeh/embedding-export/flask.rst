@@ -2,7 +2,7 @@ Bokeh-Plots in Flask einbinden
 ==============================
 
 Examplarisch betten wir Bokeh-Plots in das `Flask
-<http://flask.pocoo.org/>`_-Framework ein.
+<https://flask.palletsprojects.com/en/2.3.x/>`_-Framework ein.
 
 #. Erstellen der virtuellen Umgebung:
 
@@ -98,7 +98,7 @@ Examplarisch betten wir Bokeh-Plots in das `Flask
              return render_template("embed.html", script=script, framework="Flask")
 
    #. ``script`` und ``framework`` werden anschließend in ein
-      `Jinja2 <http://jinja.pocoo.org/>`_-Template :file:`templates/embed.html`
+      `Jinja2 <https://jinja.palletsprojects.com/en/3.1.x/>`_-Template :file:`templates/embed.html`
       eingebunden, das den Plot angezeigen soll:
 
       .. code-block:: html
@@ -184,6 +184,6 @@ Examplarisch betten wir Bokeh-Plots in das `Flask
 .. seealso::
 
    * `User Guide/Embedding Plots and Apps/App Sessions
-     <https://bokeh.pydata.org/en/latest/docs/user_guide/embed.html#app-sessions>`_
+     <https://docs.bokeh.org/en/latest/docs/user_guide/output/embed.html#app-sessions>`_
    * `GnuCash-Expenses-Vis
      <https://github.com/maciek3000/GnuCash-Expenses-Vis>`_

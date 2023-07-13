@@ -1,8 +1,8 @@
 Matplotlib-Installation
 =======================
 
-Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Matplotlib in
-eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
+Mit :doc:`python4datascience:productive/envs/spack/index` könnt ihr Matplotlib
+in eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
 
@@ -10,16 +10,12 @@ eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
     $   - py-matplotlib@3.4.3%gcc@11.2.0~animation~fonts+image~latex~movies
 
 Alternativ könnt ihr Matplotlib auch mit anderen Paketmanagern installieren,
-:abbr:`z.B. (zum Beispiel)` mit
-:doc:`jupyter-tutorial:productive/envs/pipenv/index`:
+:abbr:`z.B. (zum Beispiel)` mit :doc:`Pipenv
+<python4datascience:productive/envs/pipenv/index>`:
 
 .. code-block:: console
 
     $ pipenv install matplotlib
-
-.. note::
-   Falls ihr pipenv noch nicht installiert habt, findet ihr eine Anleitung
-   hierzu unter :ref:`pipenv-installieren`.
 
 Die Installation könnt ihr dann überprüfen mit:
 

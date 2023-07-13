@@ -30,7 +30,7 @@ einerseits viele Freiheiten bietet, andererseits jedoch viel Code erfordert.
      <https://github.com/rougier/matplotlib-cheatsheet>`_
    - `Learning matplotlib <https://riptutorial.com/ebook/matplotlib>`_
    - `SciTools courses: An introduction to matplotlib
-     <https://github.com/SciTools/courses/blob/master/course_content/extra_courses/matplotlib_intro.ipynb>`_
+     <https://github.com/scitools-classroom/courses/blob/master/course_content/extra_courses/matplotlib_intro.ipynb>`_
 
 .. toctree::
     :titlesonly:

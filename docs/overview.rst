@@ -383,7 +383,7 @@ Technologien
             tooltip="Matplotlib\nJupyter Extension",
             color="#00FFFF",
             target="_top",
-            href="https://jupyter-tutorial.readthedocs.io/de/latest/workspace/jupyter/ipywidgets/libs/ipympl.html"]
+            href="https://jupyter-tutorial.readthedocs.io/de/latest/ipywidgets/libs/ipympl.html"]
         javascript -- ipyvolume [color="#00FFFF"]
         javascript -- ipyleaflet [color="#00FFFF"]
         ipyleaflet -- xarray_leaflet [color="#00FFFF"]
@@ -411,7 +411,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
 
     "`pandas <https://github.com/pandas-dev/pandas>`_",".. image:: https://raster.shields.io/github/stars/pandas-dev/pandas",".. image:: https://raster.shields.io/github/contributors/pandas-dev/pandas",".. image:: https://raster.shields.io/github/commit-activity/y/pandas-dev/pandas",".. image:: https://raster.shields.io/github/license/pandas-dev/pandas"
     "`cufflinks <https://github.com/santosjorge/cufflinks>`_",".. image:: https://raster.shields.io/github/stars/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/contributors/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/commit-activity/y/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/license/santosjorge/cufflinks"
-    "`hvplot <https://github.com/holoviz/hgplot>`__",".. image:: https://raster.shields.io/github/stars/holoviz/hvplot",".. image:: https://raster.shields.io/github/contributors/holoviz/hvplot",".. image:: https://raster.shields.io/github/commit-activity/y/holoviz/hvplot",".. image:: https://raster.shields.io/github/license/holoviz/hvplot"
+    "`hvplot <https://github.com/holoviz/hvplot>`__",".. image:: https://raster.shields.io/github/stars/holoviz/hvplot",".. image:: https://raster.shields.io/github/contributors/holoviz/hvplot",".. image:: https://raster.shields.io/github/commit-activity/y/holoviz/hvplot",".. image:: https://raster.shields.io/github/license/holoviz/hvplot"
 
 .. csv-table:: GitHub-Insights: Weitere High-Level-APIs
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
@@ -419,7 +419,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`seaborn <https://github.com/mwaskom/seaborn>`_",".. image:: https://raster.shields.io/github/stars/mwaskom/seaborn",".. image:: https://raster.shields.io/github/contributors/mwaskom/seaborn",".. image:: https://raster.shields.io/github/commit-activity/y/mwaskom/seaborn",".. image:: https://raster.shields.io/github/license/mwaskom/seaborn"
     "`altair <https://github.com/altair-viz/altair>`__",".. image:: https://raster.shields.io/github/stars/altair-viz/altair",".. image:: https://raster.shields.io/github/contributors/altair-viz/altair",".. image:: https://raster.shields.io/github/commit-activity/y/altair-viz/altair",".. image:: https://raster.shields.io/github/license/altair-viz/altair"
     "`holoviews <https://github.com/holoviz/holoviews>`__",".. image:: https://raster.shields.io/github/stars/holoviz/holoviews",".. image:: https://raster.shields.io/github/contributors/holoviz/holoviews",".. image:: https://raster.shields.io/github/commit-activity/y/holoviz/holoviews",".. image:: https://raster.shields.io/github/license/holoviz/holoviews"
-    "`bqplot <https://github.com/bloomberg/bqplot>`_",".. image:: https://raster.shields.io/github/stars/bloomberg/bqplot",".. image:: https://raster.shields.io/github/contributors/bloomberg/bqplot",".. image:: https://raster.shields.io/github/commit-activity/y/bloomberg/bqplot",".. image:: https://raster.shields.io/github/license/bloomberg/bqplot"
+    "`bqplot <https://github.com/bqplot/bqplot>`_",".. image:: https://raster.shields.io/github/stars/bqplot/bqplot",".. image:: https://raster.shields.io/github/contributors/bqplot/bqplot",".. image:: https://raster.shields.io/github/commit-activity/y/bqplot/bqplot",".. image:: https://raster.shields.io/github/license/bqplot/bqplot"
     "`vega <https://github.com/vega/vega>`_",".. image:: https://raster.shields.io/github/stars/vega/vega",".. image:: https://raster.shields.io/github/contributors/vega/vega",".. image:: https://raster.shields.io/github/commit-activity/y/vega/vega",".. image:: https://raster.shields.io/github/license/vega/vega"
     "`Vega-Lite <https://github.com/vega/vega-lite>`_",".. image:: https://raster.shields.io/github/stars/vega/vega-lite",".. image:: https://raster.shields.io/github/contributors/vega/vega-lite",".. image:: https://raster.shields.io/github/commit-activity/y/vega/vega-lite",".. image:: https://raster.shields.io/github/license/vega/vega-lite"
     "`toyplot <https://github.com/sandialabs/toyplot>`_",".. image:: https://raster.shields.io/github/stars/sandialabs/toyplot",".. image:: https://raster.shields.io/github/contributors/sandialabs/toyplot",".. image:: https://raster.shields.io/github/commit-activity/y/sandialabs/toyplot",".. image:: https://raster.shields.io/github/license/sandialabs/toyplot"
@@ -429,7 +429,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
     "`pythreejs <https://github.com/jupyter-widgets/pythreejs>`_",".. image:: https://raster.shields.io/github/stars/jupyter-widgets/pythreejs",".. image:: https://raster.shields.io/github/contributors/jupyter-widgets/pythreejs",".. image:: https://raster.shields.io/github/commit-activity/y/jupyter-widgets/pythreejs",".. image:: https://raster.shields.io/github/license/jupyter-widgets/pythreejs"
-    "`ipyvolume <https://github.com/maartenbreddels/ipyvolume>`_",".. image:: https://raster.shields.io/github/stars/maartenbreddels/ipyvolume",".. image:: https://raster.shields.io/github/contributors/maartenbreddels/ipyvolume",".. image:: https://raster.shields.io/github/commit-activity/y/maartenbreddels/ipyvolume",".. image:: https://raster.shields.io/github/license/maartenbreddels/ipyvolume"
+    "`ipyvolume <https://github.com/widgetti/ipyvolume>`_",".. image:: https://raster.shields.io/github/stars/widgetti/ipyvolume",".. image:: https://raster.shields.io/github/contributors/widgetti/ipyvolume",".. image:: https://raster.shields.io/github/commit-activity/y/widgetti/ipyvolume",".. image:: https://raster.shields.io/github/license/widgetti/ipyvolume"
 
 .. csv-table:: GitHub-Insights: Geographie
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
@@ -460,7 +460,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
     "`vispy <https://github.com/vispy/vispy>`_",".. image:: https://raster.shields.io/github/stars/vispy/vispy",".. image:: https://raster.shields.io/github/contributors/vispy/vispy",".. image:: https://raster.shields.io/github/commit-activity/y/vispy/vispy",".. image:: https://raster.shields.io/github/license/vispy/vispy"
-    "`Mayavi <polyscope>`_",".. image:: https://raster.shields.io/github/stars/enthought/mayavi",".. image:: https://raster.shields.io/github/contributors/enthought/mayavi",".. image:: https://raster.shields.io/github/commit-activity/y/enthought/mayavi",".. image:: https://raster.shields.io/github/license/enthought/mayavi"
+    "`Mayavi <https://github.com/enthought/mayavi>`_",".. image:: https://raster.shields.io/github/stars/enthought/mayavi",".. image:: https://raster.shields.io/github/contributors/enthought/mayavi",".. image:: https://raster.shields.io/github/commit-activity/y/enthought/mayavi",".. image:: https://raster.shields.io/github/license/enthought/mayavi"
     "`iitkwidgets <https://github.com/InsightSoftwareConsortium/itkwidgets>`_",".. image:: https://raster.shields.io/github/stars/InsightSoftwareConsortium/itkwidgets",".. image:: https://raster.shields.io/github/contributors/InsightSoftwareConsortium/itkwidgets",".. image:: https://raster.shields.io/github/commit-activity/y/InsightSoftwareConsortium/itkwidgets",".. image:: https://raster.shields.io/github/license/InsightSoftwareConsortium/itkwidgets"
     "`vedo <https://github.com/marcomusy/vedo>`_",".. image:: https://raster.shields.io/github/stars/marcomusy/vedo",".. image:: https://raster.shields.io/github/contributors/marcomusy/vedo",".. image:: https://raster.shields.io/github/commit-activity/y/marcomusy/vedo",".. image:: https://raster.shields.io/github/license/marcomusy/vedo"
     "`polyscope <https://github.com/nmwsharp/polyscope>`_",".. image:: https://raster.shields.io/github/stars/nmwsharp/polyscope",".. image:: https://raster.shields.io/github/contributors/nmwsharp/polyscope",".. image:: https://raster.shields.io/github/commit-activity/y/nmwsharp/polyscope",".. image:: https://raster.shields.io/github/license/nmwsharp/polyscope"
@@ -473,7 +473,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`iris <https://github.com/SciTools/iris>`_",".. image:: https://raster.shields.io/github/stars/SciTools/iris",".. image:: https://raster.shields.io/github/contributors/SciTools/iris",".. image:: https://raster.shields.io/github/commit-activity/y/SciTools/iris",".. image:: https://raster.shields.io/github/license/SciTools/iris"
     "`yt <https://github.com/yt-project/yt>`_",".. image:: https://raster.shields.io/github/stars/yt-project/yt",".. image:: https://raster.shields.io/github/contributors/yt-project/yt",".. image:: https://raster.shields.io/github/commit-activity/y/yt-project/yt",".. image:: https://raster.shields.io/github/license/yt-project/yt"
     "`mpld3 <https://github.com/mpld3/mpld3>`_",".. image:: https://raster.shields.io/github/stars/mpld3/mpld3",".. image:: https://raster.shields.io/github/contributors/mpld3/mpld3",".. image:: https://raster.shields.io/github/commit-activity/y/mpld3/mpld3",".. image:: https://raster.shields.io/github/license/mpld3/mpld3"
-    "`ipympl <https://github.com/matplotlib/jupyter-matplotlib>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/jupyter-matplotlib",".. image:: https://raster.shields.io/github/contributors/matplotlib/jupyter-matplotlib",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/jupyter-matplotlib",".. image:: https://raster.shields.io/github/license/matplotlib/jupyter-matplotlib"
+    "`ipympl <https://github.com/matplotlib/ipympl>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/ipympl",".. image:: https://raster.shields.io/github/contributors/matplotlib/ipympl",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/ipympl",".. image:: https://raster.shields.io/github/license/matplotlib/ipympl"
 
 .. csv-table:: GitHub-Insights: Farbkarten
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
@@ -496,8 +496,8 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`vincent <https://github.com/wrobstory/vincent>`_",".. image:: https://raster.shields.io/github/stars/wrobstory/vincent",".. image:: https://raster.shields.io/github/contributors/wrobstory/vincent",".. image:: https://raster.shields.io/github/commit-activity/y/wrobstory/vincent",".. image:: https://raster.shields.io/github/license/wrobstory/vincent"
     "`Matplotlib Altair <https://github.com/matplotlib/mpl-altair>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/contributors/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/license/matplotlib/mpl-altair"
 
-Weitere Informationen über Lizenzen erhaltet ihr im unserem :doc:`Jupyter
-Tutorial <jupyter-tutorial:productive/licensing>`.
+Weitere Informationen über Lizenzen erhaltet ihr im :doc:`Python für Data
+Science <python4datascience:productive/licensing>`.
 
 Diagrammtypen
 -------------
@@ -561,7 +561,7 @@ Diagrammtypen
      <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>`_
    * `The Data Visualisation Catalogue <https://datavizcatalogue.com/>`_
    * `Cartography Guide <https://www.axismaps.com/guide/map-projections>`_
-   * `Xenographics <https://www.xeno.graphics/>`_
+   * `Xenographics <https://xeno.graphics/>`_
 
 Datengröße
 ----------
@@ -579,10 +579,10 @@ ist:
 * **Javascript**-basierte Bibliotheken sind ohne besondere Behandlung
   beschränkt auf einige tausend bis hunderttausend Punkte.
 
-  :doc:`jupyter-tutorial:workspace/jupyter/ipywidgets/index`, :doc:`bokeh/index`
-  und `Plotly <https://github.com/plotly/plotly.py>`_ nutzen statt JSON jedoch
-  spezielle Transportmechanismen für Binärdaten, sodass sie hunderttausende bis
-  Millionen von Datenpunkten verarbeiten können.
+  :doc:`jupyter-tutorial:ipywidgets/index`, :doc:`bokeh/index` und `Plotly
+  <https://github.com/plotly/plotly.py>`_ nutzen statt JSON jedoch spezielle
+  Transportmechanismen für Binärdaten, sodass sie hunderttausende bis Millionen
+  von Datenpunkten verarbeiten können.
 
   Andere Bibliotheken wie :doc:`js/ipyvolume`, `Plotly
   <https://github.com/plotly/plotly.py>`_ und in einigen Fällen :doc:`bokeh/index`

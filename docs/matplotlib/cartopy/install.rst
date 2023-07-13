@@ -3,8 +3,8 @@ Cartopy-Installation
 
 .. tab:: Spack
 
-   Mit :doc:`jupyter-tutorial:productive/envs/spack/index` könnt ihr Cartopy in
-   urem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
+   Mit :doc:`python4datascience:productive/envs/spack/index` könnt ihr Cartopy
+   in urem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
    .. code-block:: console
 
@@ -13,8 +13,8 @@ Cartopy-Installation
 
    Dies installiert Cartopy mit Unterstützung von:
 
-   * `epsg <_epsg.io>`_
-   * `Open Geospatial Consortium (OGC) <Geospatial Consortium (OGC>`_
+   * `epsg <https://epsg.io>`_
+   * `Open Geospatial Consortium (OGC) <https://www.ogc.org>`_
    * Plot-Funktionalität
 
    Zusätzlich werden folgende Pakete mitinstalliert:
@@ -22,11 +22,11 @@ Cartopy-Installation
    * `gdal <https://gdal.org/>`_
    * :doc:`/matplotlib/index`
    * `OWSLib <https://geopython.github.io/OWSLib/>`_
-   * `Pillow <https://pillow.readthedocs.io/>`_
-   * `pyepsg <https://pyepsg.readthedocs.io/>`_
+   * `Pillow <https://pillow.readthedocs.io/en/stable/>`_
+   * `pyepsg <https://pyepsg.readthedocs.io/en/latest/>`_
    * `PyShp <https://github.com/GeospatialPython/pyshp>`_
-   * `shapely <https://shapely.readthedocs.io/>`_
-   * `six <https://pythonhosted.org/six>`_
+   * `shapely <https://shapely.readthedocs.io/en/stable/>`_
+   * `six <https://six.readthedocs.io>`_
 
 .. tab:: Linux
 
@@ -74,8 +74,8 @@ Anforderungen zum Plotten
 -------------------------
 
 * :doc:`/matplotlib/index`
-* `descartes <https://pypi.python.org/pypi/descartes>`_
-* `mapclassify <https://mapclassify.readthedocs.io/>`_
+* `descartes <https://pypi.org/project/descartes/>`_
+* `mapclassify <https://pysal.org/mapclassify/>`_
 
 Überprüfen
 ----------

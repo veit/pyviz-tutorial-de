@@ -4,8 +4,9 @@ bqplot
 
 2-D Plot-Bibliothek für Jupyter-Notebooks
 
-`bqplot <https://bqplot.readthedocs.io/>`_ basiert auf `The Grammar of Graphics
-(Statistics and Computing) <https://www.springer.com/gp/book/9780387245447>`_.
+`bqplot <https://bqplot.readthedocs.io/en/latest/>`_ basiert auf `The Grammar of
+Graphics (Statistics and Computing)
+<https://link.springer.com/book/10.1007/0-387-28695-0>`_.
 
 .. seealso::
 

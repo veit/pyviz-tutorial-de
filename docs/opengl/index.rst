@@ -6,7 +6,7 @@ API-Spezifikation für 2D- und 3D-Grafikanwendungen. Neben `Vaex
 <https://github.com/vaexio/vaex>`_ stehen noch weitere Python-Bibliotheken zur
 Verfügung, die OpenGL nutzen:
 
-`Vispy <http://vispy.org/>`_
+`Vispy <https://vispy.org>`_
     Python-Bibliothek für interaktive wissenschaftliche Visualisierungen
 `Mayavi <http://docs.enthought.com/mayavi/mayavi/>`_
     Python-Bibliothek für die 3D-Visualisierung wissenschaftlicher Daten

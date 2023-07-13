@@ -12,7 +12,7 @@ Installation
 
 .. note::
    Falls ihr pipenv noch nicht installiert hab, findet ihr eine Anleitung hierzu
-   unter :ref:`pipenv-installieren`.
+   unter :doc:`python4datascience:productive/envs/pipenv/install`.
 
 Die Installation könnt ihr dann überprüfen mit:
 
@@ -40,14 +40,14 @@ Beispiel
     9985379895930.627 Mjup
 
 .. note::
-    In Version 3.3 von yt wurde ein experimenteller hardware-beschleunigter
-    interaktiver Volume-Renderer eingeführt. Um die `Interactive Data
-    Visualization (IDV)
-    <https://yt-project.org/doc/visualizing/interactive_data_visualization.html>`_
-    verwenden zu können, müssen zusätzlich `PyOpenGL
-    <https://pypi.python.org/pypi/PyOpenGL>`_ und `cyglfw3
-    <https://pypi.python.org/pypi/cyglfw3/>`_ mit ihren jeweiligen
-    Abhängigkeiten installiert werden.
+   In Version 3.3 von yt wurde ein experimenteller hardware-beschleunigter
+   interaktiver Volume-Renderer eingeführt. Um die `Interactive Data
+   Visualization (IDV)
+   <https://yt-project.org/doc/visualizing/interactive_data_visualization.html>`_
+   verwenden zu können, müssen zusätzlich `PyOpenGL
+   <https://pypi.org/project/PyOpenGL/>`_ und `cyglfw3
+   <https://pypi.org/project/cyglfw3/>`_ mit ihren jeweiligen Abhängigkeiten
+   installiert werden.
 
 .. seealso::
    - `Quickstart <https://yt-project.org/doc/quickstart/index.html>`_

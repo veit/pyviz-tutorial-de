@@ -6,7 +6,7 @@ Schnelleinstieg
    :target: https://github.com/veit/pyviz-tutorial/graphs/contributors
 .. image:: https://img.shields.io/github/license/veit/pyviz-tutorial.svg
    :alt: License
-   :target: https://github.com/veit/pyviz-tutorial/blob/master/LICENSE
+   :target: https://github.com/veit/pyviz-tutorial/blob/main/LICENSE
 .. image:: https://results.pre-commit.ci/badge/github/veit/pyviz-tutorial/main.svg
    :alt: pre-commit.ci status
    :target: https://results.pre-commit.ci/latest/github/veit/pyviz-tutorial/main
