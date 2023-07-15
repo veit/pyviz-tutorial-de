@@ -27,5 +27,5 @@ Abhängigkeiten
 --------------
 
 Um Plots als PNG oder SVG speichern zu können, müssen die
-Kommandoheilenwerkzeuge ``vl2png`` und ``vl2svg`` aus dem `vega-lite
+Kommandozeilenwerkzeuge ``vl2png`` und ``vl2svg`` aus dem `vega-lite
 <https://github.com/vega/vega-lite>`_-npm-Paket vorhanden sein.

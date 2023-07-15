@@ -4,12 +4,12 @@ Cartopy-Installation
 .. tab:: Spack
 
    Mit :doc:`python4datascience:productive/envs/spack/index` könnt ihr Cartopy
-   in urem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
+   in eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
    .. code-block:: console
 
-       $ spack env activate python-38
-       $ spack install py-cartopy@0.18.0%gcc@11.2.0~epsg~ows~plotting
+       $ spack env activate python-311
+       $ spack install py-cartopy~epsg~ows~plotting
 
    Dies installiert Cartopy mit Unterstützung von:
 

@@ -17,7 +17,7 @@ Verfügung, die OpenGL nutzen:
 `Polyscope <https://polyscope.run>`_
     Ein C++ und Python-Viewer für 3D-Daten wie Netze und Punktwolken
 `Glumpy <https://glumpy.github.io/>`_
-    Schnittstelle zwischen NumrP und OpenGL
+    Schnittstelle zwischen NumPy und OpenGL
 
 .. seealso::
 

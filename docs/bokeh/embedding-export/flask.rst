@@ -1,7 +1,7 @@
 Bokeh-Plots in Flask einbinden
 ==============================
 
-Examplarisch betten wir Bokeh-Plots in das `Flask
+Exemplarisch betten wir Bokeh-Plots in das `Flask
 <https://flask.palletsprojects.com/en/2.3.x/>`_-Framework ein.
 
 #. Erstellen der virtuellen Umgebung:
@@ -99,7 +99,7 @@ Examplarisch betten wir Bokeh-Plots in das `Flask
 
    #. ``script`` und ``framework`` werden anschließend in ein
       `Jinja2 <https://jinja.palletsprojects.com/en/3.1.x/>`_-Template :file:`templates/embed.html`
-      eingebunden, das den Plot angezeigen soll:
+      eingebunden, das den Plot anzeigen soll:
 
       .. code-block:: html
 

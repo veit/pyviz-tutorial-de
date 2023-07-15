@@ -27,11 +27,11 @@ Installation
 
    .. code-block:: console
 
-    $ curl -O https://codeload.github.com/veit/pyviz-tutorial/zip/master
-    $ unzip master
-    Archive:  master
+    $ curl -O https://codeload.github.com/veit/pyviz-tutorial/zip/refs/heads/main
+    $ unzip main
+    Archive:  main
     …
-       creating: pyviz-tutorial-master/
+       creating: pyviz-tutorial-main/
     …
 
 #. Pandoc installieren:

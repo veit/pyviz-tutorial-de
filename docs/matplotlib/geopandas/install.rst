@@ -6,8 +6,8 @@ eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
 
-    $ spack env activate python-38
-    $ spack install py-geopandas@0.9.0%gcc@11.2.0
+    $ spack env activate python-311
+    $ spack install py-geopandas
 
 Alternativ könnt ihr GeoPandas auch mit anderen Paketmanagern installieren,
 :abbr:`z.B. (zum Beispiel)` mit

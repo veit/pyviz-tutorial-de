@@ -3,10 +3,10 @@ pandas
 
 :ref:`pandas-Visualization <pandas:visualization>`
 baut auf :doc:`/matplotlib/index` auf, bietet jedoch eine einfachere API zum
-Plotten von Pandas-Dataframes und -Zeitreihen.
+Plotten von pandas-Dataframes und -Series.
 
 .. seealso::
-   - :doc:`Pandas Plotting <pandas:reference/plotting>`
+   - :doc:`pandas Plotting <pandas:reference/plotting>`
 
 .. toctree::
     :titlesonly:

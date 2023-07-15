@@ -27,7 +27,7 @@ erlaubt die einfache Beschreibung auch von komplexen Grafiken.
    `Making Plots With plotnine <https://web.archive.org/web/20230325132920/https://datacarpentry.org/python-ecology-lesson/07-visualization-ggplot-python/index.html>`_
         Eine Einführung in `The Grammar of Graphics
         <https://link.springer.com/book/10.1007/0-387-28695-0>`__ und die
-        Verwendung von plotnine. Dies ist Teil des Kurses von`Data Carpentry
+        Verwendung von plotnine. Dies ist Teil des Kurses von Data Carpentry
         `Data Analysis and Visualization in Python for Ecologists
         <https://web.archive.org/web/20230325132920/https://datacarpentry.org/python-ecology-lesson/07-visualization-ggplot-python/index.html>`_.
 

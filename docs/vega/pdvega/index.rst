@@ -3,7 +3,7 @@ PdVega
 
 `PdVega <https://altair-viz.github.io/pdvega/>`_ ist eine Bibliothek, mit der
 interaktive `Vega-Lite <https://vega.github.io/vega-lite/>`_-Plots aus
-Pandas-Dataframes unter Verwendung der Pandas-`Plot
+pandas-Dataframes unter Verwendung des pandas-`Plot
 <https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html>`_-API
 erstellt werden können.
 

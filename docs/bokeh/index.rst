@@ -16,7 +16,20 @@ Interfaces zur Verfügung:
     Low-Level-Interface, das Anwendungsentwicklern die größtmögliche
     Flexibilität bietet
 :ref:`bokeh.plotting <bokeh:bokeh.models_plots>`
-    High-Level-Interface für die Erstllung visueller Glyphen
+    High-Level-Interface für die Erstellung visueller Glyphen
+
+.. seealso::
+   * :doc:`Home <bokeh:index>`
+   * :ref:`User Guide <bokeh:userguide>`
+   * :doc:`Gallery <bokeh:docs/gallery>`
+   * :doc:`Reference Guide <bokeh:docs/reference>`
+   * `Source code <https://github.com/bokeh/bokeh>`_
+   * Examples
+
+     * `github.com/bokeh/bokeh/tree/main/examples
+       <https://github.com/bokeh/bokeh/tree/main/examples>`_
+     * `cdn.pydata.org/bokeh/examples/examples-x.y.z.zip
+       <https://cdn.pydata.org/bokeh/examples/examples-1.0.4.zip>`_
 
 Installation
 ------------
@@ -46,13 +59,14 @@ Es gibt Erweiterungen für Bokeh für die folgenden Funktionen:
     ``CustomJS``-Implementierungen in CoffeeScript oder TypeScript
 `pandas <https://pandas.pydata.org/>`_
     Notwendig für die Hexbin-Funktion. Einige Anwendungen werden durch die
-    Verwendung von pandas vereinfacht, z. B. werden pandas DataFrames durch
-    Glyph-Funktionen automatisch in Bokeh-Datenquellen konvertiert
+    Verwendung von pandas vereinfacht, :abbr:`z.B. (zum Beispiel)` werden pandas
+    DataFrames durch Glyph-Funktionen automatisch in Bokeh-Datenquellen
+    konvertiert
 `Psutil <https://psutil.readthedocs.io/en/latest/>`_
     Erforderlich, um eine detaillierte Speicherprotokollierung im Bokeh-Server
     zu ermöglichen
 `NetworkX <https://networkx.org>`_
-    Mit ``from_networkx`` lässt sich der Bokeh-Diagrammrenderer direkt auf
+    Mit ``from_networkx`` lässt sich der Bokeh-Diagramm-Renderer direkt auf
     NetworkX-Daten anwenden
 `Selenium <https://www.selenium.dev/>`_, `PhantomJS <https://phantomjs.org/>`_
     Notwendig für das Exportieren von Plots in PNG- und SVG-Bilder
@@ -88,5 +102,4 @@ einfach folgendes ein::
     embedding-export/static-images.ipynb
     embedding-export/flask
     extend.ipynb
-    links
     integration/index

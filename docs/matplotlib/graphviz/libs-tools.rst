@@ -7,7 +7,7 @@ Python-Bibliotheken
 `pydot <https://github.com/pydot/pydot>`_
     Python-Schnittstelle zu Graphviz
 `PyGraphviz <https://github.com/pygraphviz/pygraphviz>`_
-    Python Python-Schnittstelle zu Graphviz ähnlich wie :doc:`../networkx`
+    Python-Schnittstelle zu Graphviz ähnlich wie :doc:`../networkx`
 `GvGen <https://github.com/stricaud/gvgen>`_
     Python-Klasse zur Erzeugung von Dot-Dateien
 `pytm <https://github.com/izar/pytm/>`_
@@ -31,11 +31,11 @@ Netzwerk-Tools
 `dockviz <https://github.com/justone/dockviz/>`_
     Visualisierung von Docker-Daten
 `docker-compose-dot <https://github.com/digibib/docker-compose-dot>`_
-    erzeugt Graphviz-Dot-Dateien aus docker-compose yaml-Dateien
+    erzeugt Graphviz-Dot-Dateien aus docker-compose :file:`yaml`-Dateien
 `Dotler <https://github.com/ronin13/dotler>`_
     Web-Crawler und Graph-Generator
 `sabaviz <https://github.com/tom--bo/sabaviz>`_
-    visualisiert Serververbindungen anhand der Netstat-Ausgabe
+    visualisiert Server-Verbindungen anhand der Netstat-Ausgabe
 `Kafka Streams Topology Visualizer <https://github.com/zz85/kafka-streams-viz>`_
     visualisiert Kafka-Streams-Topologien mithilfe von `Viz.js
     <https://viz-js.com>`_ und `Rough.js
@@ -45,11 +45,11 @@ Konfigurationsmanagement
 ------------------------
 
 `terraform graph <https://developer.hashicorp.com/terraform/cli/commands/graph>`_
-    überführt die Konfiguration in eine DOT-Datei
+    überführt die Konfiguration in eine Dot-Datei
 `Ansible Playbook Grapher <https://github.com/haidaraM/ansible-playbook-grapher>`_
-    Kommandozeilentool, um ein Diagramm aus Ansible Playbooks zu erstellen
+    Kommandozeilentool, um ein Diagramm aus Ansible-Playbooks zu erstellen
 `ansible-inventory-grapher <https://github.com/willthames/ansible-inventory-grapher>`_
-    erstellt Dot-Dateien aus Ansible Inventories
+    erstellt Dot-Dateien aus Ansible-Inventories
 
 Profiler
 --------
@@ -61,7 +61,7 @@ Build-Systeme
 -------------
 
 `CMake <https://cmake.org/cmake/help/latest/module/CMakeGraphVizOptions.html>`_
-    kann DOT-Dateien erzeugen, die die Abhängigkeiten in einem Projekt sowie zu
+    kann Dot-Dateien erzeugen, die die Abhängigkeiten in einem Projekt sowie zu
     externen Bibliotheken, gegen die gelinkt wird, anzeigen
 `makefile2graph <https://github.com/lindenb/makefile2graph>`_
     erzeugt einen Abhängigkeitsgraphen aus GNU-Make-Dateien
