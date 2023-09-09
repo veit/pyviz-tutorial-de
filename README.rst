@@ -113,5 +113,5 @@ Wenn ihr Vorschläge für Verbesserungen und Ergänzungen habt, empfehle ich euc
 einen `Fork <https://github.com/veit/pyviz-tutorial/fork>`_ meines
 `GitHub-Repository <https://github.com/veit/pyviz-tutorial/>`_ zu erstellen
 und darin eure Änderungen vorzunehmen. Gerne dürft ihr auch einen *Pull Request*
-stellen. Sofern die darin enthaltenen Änderungen klein und atomar sind, schaue ich
-mir eure Vorschläge gerne an.
+stellen. Sofern die darin enthaltenen Änderungen klein und atomar sind, schaue
+ich mir eure Vorschläge gerne an.

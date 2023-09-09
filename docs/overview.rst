@@ -78,14 +78,14 @@ Technologien
             target="_top",
             href="../matplotlib/mpl-scatter-density.html"]
         pandas [
-            label="Pandas",
-            tooltip="Pandas Datenstrukturen mit\nMatplotlib visualisieren",
+            label="pandas",
+            tooltip="pandas Datenstrukturen mit\nMatplotlib visualisieren",
             color="#BF80FF",
             target="_top",
             href="../matplotlib/pandas/index.html"]
         geopandas [
             label="GeoPandas",
-            tooltip="geopandas erweitert Pandas um geometrische Datentypen",
+            tooltip="GeoPandas erweitert pandas um geometrische Datentypen",
             color="#BF80FF",
             target="_top",
             href="../matplotlib/geopandas/index.html"]
@@ -272,7 +272,7 @@ Technologien
             href="https://github.com/vega/vega-lite"]
         pdvega [
             label="PdVega",
-            tooltip="Interaktive Vega-Light-Plots\naus Pandas Dataframes",
+            tooltip="Interaktive Vega-Light-Plots\naus pandas Dataframes",
             color="#00FF80",
             target="_top",
             href="../vega/pdvega/index.html"]
@@ -322,7 +322,7 @@ Technologien
             href="https://github.com/plotly/plotly.py"]
         cufflinks [
             label="Cufflinks",
-            tooltip="Interaktive Plotly-Plots\nfür Pandas",
+            tooltip="Interaktive Plotly-Plots\nfür pandas",
             color="#4da6ff",
             target="_top",
             href="https://plot.ly/python/v3/ipython-notebooks/cufflinks/"]
@@ -406,7 +406,7 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`bokeh <https://github.com/bokeh/bokeh>`_",".. image:: https://raster.shields.io/github/stars/bokeh/bokeh",".. image:: https://raster.shields.io/github/contributors/bokeh/bokeh",".. image:: https://raster.shields.io/github/commit-activity/y/bokeh/bokeh",".. image:: https://raster.shields.io/github/license/bokeh/bokeh"
     "`plotly <https://github.com/plotly/plotly.py>`_",".. image:: https://raster.shields.io/github/stars/plotly/plotly.py",".. image:: https://raster.shields.io/github/contributors/plotly/plotly.py",".. image:: https://raster.shields.io/github/commit-activity/y/plotly/plotly.py",".. image:: https://raster.shields.io/github/license/plotly/plotly.py"
 
-.. csv-table:: GitHub-Insights: Pandas ``.plot()``-API
+.. csv-table:: GitHub-Insights: pandas ``.plot()``-API
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
     "`pandas <https://github.com/pandas-dev/pandas>`_",".. image:: https://raster.shields.io/github/stars/pandas-dev/pandas",".. image:: https://raster.shields.io/github/contributors/pandas-dev/pandas",".. image:: https://raster.shields.io/github/commit-activity/y/pandas-dev/pandas",".. image:: https://raster.shields.io/github/license/pandas-dev/pandas"
