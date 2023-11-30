@@ -8,3 +8,5 @@ sphinxext-opengraph
 sphinx-copybutton
 sphinx_inline_tabs
 sphinx-lint
+# Required by sphinxext-opengraph
+matplotlib
