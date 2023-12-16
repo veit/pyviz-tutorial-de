@@ -552,17 +552,6 @@ Diagrammtypen
   * :doc:`js/ipyvolume`
   * :doc:`matplotlib/mpl-scatter-density`
 
-.. seealso::
-
-   * `Graphical Perception: Theory, Experimentation, and Application to the
-     Development of Graphical Methods
-     <https://www.math.pku.edu.cn/teachers/xirb/Courses/biostatistics/Biostatistics2016/GraphicalPerception_Jasa1984.pdf>`_
-   * `Financial Times Chart Doctor: Visual vocabluary
-     <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>`_
-   * `The Data Visualisation Catalogue <https://datavizcatalogue.com/>`_
-   * `Cartography Guide <https://www.axismaps.com/guide/map-projections>`_
-   * `Xenographics <https://xeno.graphics/>`_
-
 Datengröße
 ----------
 
