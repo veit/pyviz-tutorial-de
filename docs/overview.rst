@@ -113,24 +113,12 @@ Technologien
             color="#BF80FF",
             target="_top",
             href="../matplotlib/seaborn/index.html"]
-        ggpy [
-            label="ggpy",
-            tooltip="ggplot-Port für Python",
-            color="#BF80FF",
-            target="_top",
-            href="https://github.com/yhat/ggpy"]
         plotnine [
             label="plotnine",
             tooltip="Python-Implementierung von ggplot2",
             color="#BF80FF",
             target="_top",
             href="../matplotlib/plotnine/index.html"]
-        scikit_plot [
-            label="Scikit-plot",
-            tooltip="Plotting-Bibliothek für\nScikit-learn-Objekte",
-            color="#BF80FF",
-            target="_top",
-            href="https://scikit-plot.readthedocs.io/"]
         yellowbrick [
             label="Yellowbrick",
             tooltip="Tools für die visuelle Analyse und Diagnose\nvon Scikit-learn-Projekten",
@@ -180,9 +168,7 @@ Technologien
         mpl -- prettymaps [color="#BF80FF"]
         mpl -- descartes [color="#BF80FF"]
         mpl -- seaborn [color="#BF80FF"]
-        mpl -- ggpy [color="#BF80FF"]
         mpl -- plotnine [color="#BF80FF"]
-        mpl -- scikit_plot [color="#BF80FF"]
         mpl -- yellowbrick [color="#BF80FF"]
         networkx -- graphviz [color="#BF80FF;0.5:#cccccc", style="dashed"]
         graphviz -- graph_tool [color="#cccccc;0.5:#cccccc", style="dashed"]
@@ -192,7 +178,6 @@ Technologien
         iris -- cartopy [color="#BF80FF"]
         yt -- mpl [color="#BF80FF"]
         yt -- opengl [color="#BF80FF;0.5:#FF66B3", style="dashed"]
-        mpl -- mpld3 [color="#BF80FF;0.5:#4da6ff"]
         mpl -- ipympl [color="#BF80FF;0.5:#00FFFF"]
         mpl -- mpl_altair [color="#BF80FF;0.5:#00FF80"]
 
@@ -258,12 +243,6 @@ Technologien
             color="#00FF80",
             target="_top",
             href="../vega/index.html"]
-        vincent [
-            label="Vincent",
-            tooltip="Python-Bibliothek für\nVega-Anwendungen",
-            color="#00FF80",
-            target="_top",
-            href="https://vincent.readthedocs.io/"]
         vega_light [
             label="Vega-Lite",
             tooltip="High-level-Grammatik für\nkomplexe Vega-Anwendungen",
@@ -288,7 +267,6 @@ Technologien
             color="#00FF80",
             target="_top",
             href="https://matplotlib.org/mpl-altair/"]
-        vega -- vincent [color="#00FF80"]
         vega -- vega_light [color="#00FF80"]
         vega_light -- altair [color="#00FF80"]
         vega_light -- pdvega [color="#00FF80"]
@@ -320,23 +298,8 @@ Technologien
             color="#4da6ff",
             target="_top",
             href="https://github.com/plotly/plotly.py"]
-        cufflinks [
-            label="Cufflinks",
-            tooltip="Interaktive Plotly-Plots\nfür pandas",
-            color="#4da6ff",
-            target="_top",
-            href="https://plot.ly/python/v3/ipython-notebooks/cufflinks/"]
-        mpld3 [
-            label="mpld3",
-            tooltip="Matplotlib für\nden Webbrowser",
-            color="#4da6ff",
-            target="_top",
-            href="https://mpld3.github.io/"]
         d3js -- bqplot [color="#4da6ff"]
-        d3js -- mpld3 [color="#4da6ff"]
         d3js -- plotly [color="#4da6ff"]
-        plotly -- cufflinks [color="#4da6ff"]
-        cufflinks -- pandas [color="#4da6ff;0.5:#BF80FF"]
         d3js -- d3po [color="#4da6ff"]
         d3js -- vega [color="#4da6ff;0.5:#00FF80"]
         d3js -- javascript [color="#4da6ff;0.5:#00FFFF"]
@@ -412,7 +375,6 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`pandas <https://github.com/pandas-dev/pandas>`_",".. image:: https://raster.shields.io/github/stars/pandas-dev/pandas",".. image:: https://raster.shields.io/github/contributors/pandas-dev/pandas",".. image:: https://raster.shields.io/github/commit-activity/y/pandas-dev/pandas",".. image:: https://raster.shields.io/github/license/pandas-dev/pandas"
     "`xarray <https://github.com/pydata/xarray>`_",".. image:: https://raster.shields.io/github/stars/pydata/xarray",".. image:: https://raster.shields.io/github/contributors/pydata/xarray",".. image:: https://raster.shields.io/github/commit-activity/y/pydata/xarray",".. image:: https://raster.shields.io/github/license/pydata/xarray"
     "`Pandas-Bokeh <https://github.com/PatrikHlobil/Pandas-Bokeh>`_",".. image:: https://raster.shields.io/github/stars/PatrikHlobil/Pandas-Bokeh",".. image:: https://raster.shields.io/github/contributors/PatrikHlobil/Pandas-Bokeh",".. image:: https://raster.shields.io/github/commit-activity/y/PatrikHlobil/Pandas-Bokeh",".. image:: https://raster.shields.io/github/license/PatrikHlobil/Pandas-Bokeh"
-    "`cufflinks <https://github.com/santosjorge/cufflinks>`_",".. image:: https://raster.shields.io/github/stars/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/contributors/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/commit-activity/y/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/license/santosjorge/cufflinks"
     "`hvplot <https://github.com/holoviz/hvplot>`__",".. image:: https://raster.shields.io/github/stars/holoviz/hvplot",".. image:: https://raster.shields.io/github/contributors/holoviz/hvplot",".. image:: https://raster.shields.io/github/commit-activity/y/holoviz/hvplot",".. image:: https://raster.shields.io/github/license/holoviz/hvplot"
 
 .. csv-table:: GitHub-Insights: Weitere High-Level-APIs
@@ -432,7 +394,6 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`proplot <https://github.com/proplot-dev/proplot>`__",".. image:: https://raster.shields.io/github/stars/proplot-dev/proplot",".. image:: https://raster.shields.io/github/contributors/proplot-dev/proplot",".. image:: https://raster.shields.io/github/commit-activity/y/proplot-dev/proplot",".. image:: https://raster.shields.io/github/license/proplot-dev/proplot"
     "`ipyvizzu <https://github.com/vizzuhq/ipyvizzu>`__",".. image:: https://raster.shields.io/github/stars/vizzuhq/ipyvizzu",".. image:: https://raster.shields.io/github/contributors/vizzuhq/ipyvizzu",".. image:: https://raster.shields.io/github/commit-activity/y/vizzuhq/ipyvizzu",".. image:: https://raster.shields.io/github/license/vizzuhq/ipyvizzu"
     "`ipyvizzu-story <https://github.com/vizzuhq/ipyvizzu-story>`__",".. image:: https://raster.shields.io/github/stars/vizzuhq/ipyvizzu-story",".. image:: https://raster.shields.io/github/contributors/vizzuhq/ipyvizzu-story",".. image:: https://raster.shields.io/github/commit-activity/y/vizzuhq/ipyvizzu-story",".. image:: https://raster.shields.io/github/license/vizzuhq/ipyvizzu-story"
-    "`plotly_express <https://github.com/plotly/plotly_express>`__",".. image:: https://raster.shields.io/github/stars/plotly/plotly_express",".. image:: https://raster.shields.io/github/contributors/plotly/plotly_express",".. image:: https://raster.shields.io/github/commit-activity/y/plotly/plotly_express",".. image:: https://raster.shields.io/github/license/plotly/plotly_express"
     "`toyplot <https://github.com/sandialabs/toyplot>`_",".. image:: https://raster.shields.io/github/stars/sandialabs/toyplot",".. image:: https://raster.shields.io/github/contributors/sandialabs/toyplot",".. image:: https://raster.shields.io/github/commit-activity/y/sandialabs/toyplot",".. image:: https://raster.shields.io/github/license/sandialabs/toyplot"
     "`quibbler <https://github.com/sandialabs/Technion-Kishony-lab/quibbler>`_",".. image:: https://raster.shields.io/github/stars/Technion-Kishony-lab/quibbler",".. image:: https://raster.shields.io/github/contributors/Technion-Kishony-lab/quibbler",".. image:: https://raster.shields.io/github/commit-activity/y/Technion-Kishony-lab/quibbler",".. image:: https://raster.shields.io/github/license/Technion-Kishony-lab/quibbler"
     "`omniplot <https://github.com/sandialabs/koonimaru/omniplot>`_",".. image:: https://raster.shields.io/github/stars/koonimaru/omniplot",".. image:: https://raster.shields.io/github/contributors/koonimaru/omniplot",".. image:: https://raster.shields.io/github/commit-activity/y/koonimaru/omniplot",".. image:: https://raster.shields.io/github/license/koonimaru/omniplot"
@@ -456,15 +417,12 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`ipyleaflet <https://github.com/jupyter-widgets/ipyleaflet>`_",".. image:: https://raster.shields.io/github/stars/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/contributors/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/commit-activity/y/jupyter-widgets/ipyleaflet",".. image:: https://raster.shields.io/github/license/jupyter-widgets/ipyleaflet"
     "`cartopy <https://github.com/SciTools/cartopy>`_",".. image:: https://raster.shields.io/github/stars/SciTools/cartopy",".. image:: https://raster.shields.io/github/contributors/SciTools/cartopy",".. image:: https://raster.shields.io/github/commit-activity/y/SciTools/cartopy",".. image:: https://raster.shields.io/github/license/SciTools/cartopy"
     "`geoplot <https://github.com/ResidentMario/geoplot/>`__",".. image:: https://raster.shields.io/github/stars/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/contributors/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/commit-activity/y/ResidentMario/geoplot",".. image:: https://raster.shields.io/github/license/ResidentMario/geoplot"
-    "`geoplotlib <https://github.com/andrea-cuttone/geoplotlib/>`__",".. image:: https://raster.shields.io/github/stars/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/contributors/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/commit-activity/y/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/license/andrea-cuttone/geoplotlib"
-    "`gmplot <https://github.com/gmplot/gmplot>`__",".. image:: https://raster.shields.io/github/stars/gmplot/gmplot",".. image:: https://raster.shields.io/github/contributors/gmplot/gmplot",".. image:: https://raster.shields.io/github/commit-activity/y/gmplot/gmplot",".. image:: https://raster.shields.io/github/license/gmplot/gmplot"
     "`PyGMT <https://github.com/GenericMappingTools/pygmt>`__",".. image:: https://raster.shields.io/github/stars/GenericMappingTools/pygmt",".. image:: https://raster.shields.io/github/contributors/GenericMappingTools/pygmt",".. image:: https://raster.shields.io/github/commit-activity/y/GenericMappingTools/pygmt",".. image:: https://raster.shields.io/github/license/GenericMappingTools/pygmt"
     "`GeoViews <https://github.com/holoviz/geoviews>`_",".. image:: https://raster.shields.io/github/stars/holoviz/geoviews",".. image:: https://raster.shields.io/github/contributors/holoviz/geoviews",".. image:: https://raster.shields.io/github/commit-activity/y/holoviz/geoviews",".. image:: https://raster.shields.io/github/license/holoviz/geoviews"
     "`Pyrosm <https://github.com/HTenkanen/pyrosm>`_",".. image:: https://raster.shields.io/github/stars/HTenkanen/pyrosm",".. image:: https://raster.shields.io/github/contributors/HTenkanen/pyrosm",".. image:: https://raster.shields.io/github/commit-activity/y/HTenkanen/pyrosm",".. image:: https://raster.shields.io/github/license/HTenkanen/pyrosm"
     "`EOmaps <https://github.com/raphaelquast/eomaps>`_",".. image:: https://raster.shields.io/github/stars/raphaelquast/eomaps",".. image:: https://raster.shields.io/github/contributors/raphaelquast/eomaps",".. image:: https://raster.shields.io/github/commit-activity/y/raphaelquast/eomaps",".. image:: https://raster.shields.io/github/license/raphaelquast/eomaps"
     "`mapwidget <https://github.com/opengeos/mapwidget>`_",".. image:: https://raster.shields.io/github/stars/opengeos/mapwidget",".. image:: https://raster.shields.io/github/contributors/opengeos/mapwidget",".. image:: https://raster.shields.io/github/commit-activity/y/opengeos/mapwidget",".. image:: https://raster.shields.io/github/license/opengeos/mapwidget"
     "`splot <https://github.com/pysal/splot>`_",".. image:: https://raster.shields.io/github/stars/pysal/splot",".. image:: https://raster.shields.io/github/contributors/pysal/splot",".. image:: https://raster.shields.io/github/commit-activity/y/pysal/splot",".. image:: https://raster.shields.io/github/license/pysal/splot"
-    "`xtrude <https://github.com/davidbrochart/xtrude>`_",".. image:: https://raster.shields.io/github/stars/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/contributors/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/commit-activity/y/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/license/davidbrochart/xtrude"
     "`Gspatial Plot <https://github.com/ambeelabs/gspatial_plot>`_",".. image:: https://raster.shields.io/github/stars/ambeelabs/gspatial_plot",".. image:: https://raster.shields.io/github/contributors/ambeelabs/gspatial_plot",".. image:: https://raster.shields.io/github/commit-activity/y/ambeelabs/gspatial_plot",".. image:: https://raster.shields.io/github/license/ambeelabs/gspatial_plot"
     "`xarray-leaflet <https://github.com/davidbrochart/xarray_leaflet>`_",".. image:: https://raster.shields.io/github/stars/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/contributors/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/commit-activity/y/davidbrochart/xarray_leaflet",".. image:: https://raster.shields.io/github/license/davidbrochart/xarray_leaflet"
 
@@ -477,7 +435,6 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`pyvis <https://github.com/WestHealth/pyvis>`_",".. image:: https://raster.shields.io/github/stars/WestHealth/pyvis",".. image:: https://raster.shields.io/github/contributors/WestHealth/pyvis",".. image:: https://raster.shields.io/github/commit-activity/y/WestHealth/pyvis",".. image:: https://raster.shields.io/github/license/WestHealth/pyvis"
     "`pydot <https://github.com/pydot/pydot>`_",".. image:: https://raster.shields.io/github/stars/pydot/pydot",".. image:: https://raster.shields.io/github/contributors/pydot/pydot",".. image:: https://raster.shields.io/github/commit-activity/y/pydot/pydot",".. image:: https://raster.shields.io/github/license/pydot/pydot"
     "`PyGraphviz <https://github.com/pygraphviz/pygraphviz>`_",".. image:: https://raster.shields.io/github/stars/pygraphviz/pygraphviz",".. image:: https://raster.shields.io/github/contributors/pygraphviz/pygraphviz",".. image:: https://raster.shields.io/github/commit-activity/y/pygraphviz/pygraphviz",".. image:: https://raster.shields.io/github/license/pygraphviz/pygraphviz"
-    "`PyGSP <https://github.com/epfl-lts2/pygsp>`_",".. image:: https://raster.shields.io/github/stars/epfl-lts2/pygsp",".. image:: https://raster.shields.io/github/contributors/epfl-lts2/pygsp",".. image:: https://raster.shields.io/github/commit-activity/y/epfl-lts2/pygsp",".. image:: https://raster.shields.io/github/license/epfl-lts2/pygsp"
     "`nxviz <https://github.com/ericmjl/nxviz>`_",".. image:: https://raster.shields.io/github/stars/ericmjl/nxviz",".. image:: https://raster.shields.io/github/contributors/ericmjl/nxviz",".. image:: https://raster.shields.io/github/commit-activity/y/ericmjl/nxviz",".. image:: https://raster.shields.io/github/license/ericmjl/nxviz"
     "`py4cytoscape <https://github.com/cytoscape/py4cytoscape>`_",".. image:: https://raster.shields.io/github/stars/cytoscape/py4cytoscape",".. image:: https://raster.shields.io/github/contributors/cytoscape/py4cytoscape",".. image:: https://raster.shields.io/github/commit-activity/y/cytoscape/py4cytoscape",".. image:: https://raster.shields.io/github/license/cytoscape/py4cytoscape"
     "`ipycytoscape <https://github.com/cytoscape/ipycytoscape>`_",".. image:: https://raster.shields.io/github/stars/cytoscape/ipycytoscape",".. image:: https://raster.shields.io/github/contributors/cytoscape/ipycytoscape",".. image:: https://raster.shields.io/github/commit-activity/y/cytoscape/ipycytoscape",".. image:: https://raster.shields.io/github/license/cytoscape/ipycytoscape"
@@ -512,7 +469,6 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`scikit-image <https://github.com/scikit-image/scikit-image/>`_",".. image:: https://raster.shields.io/github/stars/scikit-image/scikit-image",".. image:: https://raster.shields.io/github/contributors/scikit-image/scikit-image",".. image:: https://raster.shields.io/github/commit-activity/y/scikit-image/scikit-image",".. image:: https://raster.shields.io/github/license/scikit-image/scikit-image"
     "`Yellowbrick <https://github.com/DistrictDataLabs/yellowbrick/>`_",".. image:: https://raster.shields.io/github/stars/DistrictDataLabs/yellowbrick",".. image:: https://raster.shields.io/github/contributors/DistrictDataLabs/yellowbrick",".. image:: https://raster.shields.io/github/commit-activity/y/DistrictDataLabs/yellowbrick",".. image:: https://raster.shields.io/github/license/DistrictDataLabs/yellowbrick"
     "`missingno <https://github.com/ResidentMario/missingno>`_",".. image:: https://raster.shields.io/github/stars/ResidentMario/missingno",".. image:: https://raster.shields.io/github/contributors/ResidentMario/missingno",".. image:: https://raster.shields.io/github/commit-activity/y/ResidentMario/missingno",".. image:: https://raster.shields.io/github/license/ResidentMario/missingno"
-    "`mpld3 <https://github.com/mpld3/mpld3>`_",".. image:: https://raster.shields.io/github/stars/mpld3/mpld3",".. image:: https://raster.shields.io/github/contributors/mpld3/mpld3",".. image:: https://raster.shields.io/github/commit-activity/y/mpld3/mpld3",".. image:: https://raster.shields.io/github/license/mpld3/mpld3"
     "`napari <https://github.com/napari/napari>`_",".. image:: https://raster.shields.io/github/stars/napari/napari",".. image:: https://raster.shields.io/github/contributors/napari/napari",".. image:: https://raster.shields.io/github/commit-activity/y/napari/napari",".. image:: https://raster.shields.io/github/license/napari/napari"
     "`HyperTools <https://github.com/ContextLab/hypertools>`_",".. image:: https://raster.shields.io/github/stars/ContextLab/hypertools",".. image:: https://raster.shields.io/github/contributors/ContextLab/hypertools",".. image:: https://raster.shields.io/github/commit-activity/y/ContextLab/hypertools",".. image:: https://raster.shields.io/github/license/ContextLab/hypertools"
     "`ipympl <https://github.com/matplotlib/ipympl>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/ipympl",".. image:: https://raster.shields.io/github/contributors/matplotlib/ipympl",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/ipympl",".. image:: https://raster.shields.io/github/license/matplotlib/ipympl"
@@ -520,8 +476,6 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`MetPy <https://github.com/Unidata/MetPy>`_",".. image:: https://raster.shields.io/github/stars/Unidata/MetPy",".. image:: https://raster.shields.io/github/contributors/Unidata/MetPy",".. image:: https://raster.shields.io/github/commit-activity/y/Unidata/MetPy",".. image:: https://raster.shields.io/github/license/Unidata/MetPy"
     "`iris <https://github.com/SciTools/iris>`_",".. image:: https://raster.shields.io/github/stars/SciTools/iris",".. image:: https://raster.shields.io/github/contributors/SciTools/iris",".. image:: https://raster.shields.io/github/commit-activity/y/SciTools/iris",".. image:: https://raster.shields.io/github/license/SciTools/iris"
     "`yt <https://github.com/yt-project/yt>`_",".. image:: https://raster.shields.io/github/stars/yt-project/yt",".. image:: https://raster.shields.io/github/contributors/yt-project/yt",".. image:: https://raster.shields.io/github/commit-activity/y/yt-project/yt",".. image:: https://raster.shields.io/github/license/yt-project/yt"
-    "`Clustergrammer2 <https://github.com/ismms-himc/clustergrammer2>`_",".. image:: https://raster.shields.io/github/stars/ismms-himc/clustergrammer2",".. image:: https://raster.shields.io/github/contributors/ismms-himc/clustergrammer2",".. image:: https://raster.shields.io/github/commit-activity/y/ismms-himc/clustergrammer2",".. image:: https://raster.shields.io/github/license/ismms-himc/clustergrammer2"
-    "`chart <https://github.com/maxhumber/chart>`_",".. image:: https://raster.shields.io/github/stars/maxhumber/chart",".. image:: https://raster.shields.io/github/contributors/maxhumber/chart",".. image:: https://raster.shields.io/github/commit-activity/y/maxhumber/chart",".. image:: https://raster.shields.io/github/license/maxhumber/chart"
 
 .. csv-table:: GitHub-Insights: Farbkarten
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
@@ -534,16 +488,25 @@ Lizenzen der verschiedenen Bibliotheken vergleichen.
     "`viscm <https://github.com/matplotlib/viscm>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/viscm",".. image:: https://raster.shields.io/github/contributors/matplotlib/viscm",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/viscm",".. image:: https://raster.shields.io/github/license/matplotlib/viscm"
     "`cmcrameri <https://github.com/callumrollo/cmcrameri>`_",".. image:: https://raster.shields.io/github/stars/callumrollo/cmcrameri",".. image:: https://raster.shields.io/github/contributors/callumrollo/cmcrameri",".. image:: https://raster.shields.io/github/commit-activity/y/callumrollo/cmcrameri",".. image:: https://raster.shields.io/github/license/callumrollo/cmcrameri"
 
-.. csv-table:: GitHub-Insights: Ruhende Projekte (Stand: 11.04.2020)
+.. csv-table:: GitHub-Insights: Ruhende Projekte (Stand: 18.12.2023)
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
-    "`PdVega <https://github.com/altair-viz/pdvega>`_",".. image:: https://raster.shields.io/github/stars/altair-viz/pdvega",".. image:: https://raster.shields.io/github/contributors/altair-viz/pdvega",".. image:: https://raster.shields.io/github/commit-activity/y/altair-viz/pdvega",".. image:: https://raster.shields.io/github/license/altair-viz/pdvega"
     "`graph-tool <https://github.com/antmd/graph-tool>`_",".. image:: https://raster.shields.io/github/stars/antmd/graph-tool",".. image:: https://raster.shields.io/github/contributors/antmd/graph-tool",".. image:: https://raster.shields.io/github/commit-activity/y/antmd/graph-tool",".. image:: https://raster.shields.io/github/license/antmd/graph-tool"
     "`ggpy <https://github.com/yhat/ggpy>`_",".. image:: https://raster.shields.io/github/stars/yhat/ggpy",".. image:: https://raster.shields.io/github/contributors/yhat/ggpy",".. image:: https://raster.shields.io/github/commit-activity/y/yhat/ggpy",".. image:: https://raster.shields.io/github/license/yhat/ggpy"
+    "`cufflinks <https://github.com/santosjorge/cufflinks>`_",".. image:: https://raster.shields.io/github/stars/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/contributors/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/commit-activity/y/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/license/santosjorge/cufflinks"
     "`scikit-plot <https://github.com/reiinakano/scikit-plot>`_",".. image:: https://raster.shields.io/github/stars/reiinakano/scikit-plot",".. image:: https://raster.shields.io/github/contributors/reiinakano/scikit-plot",".. image:: https://raster.shields.io/github/commit-activity/y/reiinakano/scikit-plot",".. image:: https://raster.shields.io/github/license/reiinakano/scikit-plot"
-    "`d3po <https://github.com/adamlabadorf/d3po>`_",".. image:: https://raster.shields.io/github/stars/adamlabadorf/d3po",".. image:: https://raster.shields.io/github/contributors/adamlabadorf/d3po",".. image:: https://raster.shields.io/github/commit-activity/y/adamlabadorf/d3po",".. image:: https://raster.shields.io/github/license/adamlabadorf/d3po"
+    "`mpld3 <https://github.com/mpld3/mpld3>`_",".. image:: https://raster.shields.io/github/stars/mpld3/mpld3",".. image:: https://raster.shields.io/github/contributors/mpld3/mpld3",".. image:: https://raster.shields.io/github/commit-activity/y/mpld3/mpld3",".. image:: https://raster.shields.io/github/license/mpld3/mpld3"
     "`vincent <https://github.com/wrobstory/vincent>`_",".. image:: https://raster.shields.io/github/stars/wrobstory/vincent",".. image:: https://raster.shields.io/github/contributors/wrobstory/vincent",".. image:: https://raster.shields.io/github/commit-activity/y/wrobstory/vincent",".. image:: https://raster.shields.io/github/license/wrobstory/vincent"
+    "`geoplotlib <https://github.com/andrea-cuttone/geoplotlib/>`__",".. image:: https://raster.shields.io/github/stars/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/contributors/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/commit-activity/y/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/license/andrea-cuttone/geoplotlib"
+    "`gmplot <https://github.com/gmplot/gmplot>`__",".. image:: https://raster.shields.io/github/stars/gmplot/gmplot",".. image:: https://raster.shields.io/github/contributors/gmplot/gmplot",".. image:: https://raster.shields.io/github/commit-activity/y/gmplot/gmplot",".. image:: https://raster.shields.io/github/license/gmplot/gmplot"
+    "`plotly_express <https://github.com/plotly/plotly_express>`__",".. image:: https://raster.shields.io/github/stars/plotly/plotly_express",".. image:: https://raster.shields.io/github/contributors/plotly/plotly_express",".. image:: https://raster.shields.io/github/commit-activity/y/plotly/plotly_express",".. image:: https://raster.shields.io/github/license/plotly/plotly_express"
+    "`PyGSP <https://github.com/epfl-lts2/pygsp>`_",".. image:: https://raster.shields.io/github/stars/epfl-lts2/pygsp",".. image:: https://raster.shields.io/github/contributors/epfl-lts2/pygsp",".. image:: https://raster.shields.io/github/commit-activity/y/epfl-lts2/pygsp",".. image:: https://raster.shields.io/github/license/epfl-lts2/pygsp"
+    "`PdVega <https://github.com/altair-viz/pdvega>`_",".. image:: https://raster.shields.io/github/stars/altair-viz/pdvega",".. image:: https://raster.shields.io/github/contributors/altair-viz/pdvega",".. image:: https://raster.shields.io/github/commit-activity/y/altair-viz/pdvega",".. image:: https://raster.shields.io/github/license/altair-viz/pdvega"
+    "`Clustergrammer2 <https://github.com/ismms-himc/clustergrammer2>`_",".. image:: https://raster.shields.io/github/stars/ismms-himc/clustergrammer2",".. image:: https://raster.shields.io/github/contributors/ismms-himc/clustergrammer2",".. image:: https://raster.shields.io/github/commit-activity/y/ismms-himc/clustergrammer2",".. image:: https://raster.shields.io/github/license/ismms-himc/clustergrammer2"
+    "`chart <https://github.com/maxhumber/chart>`_",".. image:: https://raster.shields.io/github/stars/maxhumber/chart",".. image:: https://raster.shields.io/github/contributors/maxhumber/chart",".. image:: https://raster.shields.io/github/commit-activity/y/maxhumber/chart",".. image:: https://raster.shields.io/github/license/maxhumber/chart"
+    "`xtrude <https://github.com/davidbrochart/xtrude>`_",".. image:: https://raster.shields.io/github/stars/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/contributors/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/commit-activity/y/davidbrochart/xtrude",".. image:: https://raster.shields.io/github/license/davidbrochart/xtrude"
     "`Matplotlib Altair <https://github.com/matplotlib/mpl-altair>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/contributors/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/mpl-altair",".. image:: https://raster.shields.io/github/license/matplotlib/mpl-altair"
+    "`d3po <https://github.com/adamlabadorf/d3po>`_",".. image:: https://raster.shields.io/github/stars/adamlabadorf/d3po",".. image:: https://raster.shields.io/github/contributors/adamlabadorf/d3po",".. image:: https://raster.shields.io/github/commit-activity/y/adamlabadorf/d3po",".. image:: https://raster.shields.io/github/license/adamlabadorf/d3po"
 
 Weitere Informationen über Lizenzen erhaltet ihr im :doc:`Python für Data
 Science <python4datascience:productive/licensing>`.
