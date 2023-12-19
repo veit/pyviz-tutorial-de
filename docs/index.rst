@@ -10,11 +10,13 @@ Aktuell ist es sehr schwierig, einen :doc:`overview` zu erhalten. Im Folgenden
 versuchen wir, die Suche nach der passenden Bibliothek zu vereinfachen, indem
 wir einige Aspekte genauer beleuchten:
 
-* :ref:`/overview.rst#technologien`
-* :ref:`/overview.rst#aktivitaten-und-lizenzen`
-* :ref:`/overview.rst#diagrammtypen` (Statistische Darstellungen,
-  regelmäßige und unregelmäßige Gitter :abbr:`etc. (et cetera)`)
-* :ref:`/overview.rst#datengrosze`
+* :ref:`technologies`
+* :ref:`core-libs`
+* :ref:`pandas-plot-api`
+* :ref:`further-high-level-apis`
+* :ref:`big-data`
+* :ref:`chart-types` (Statistische Darstellungen, regelmäßige und
+  unregelmäßige Gitter :abbr:`etc. (et cetera)`)
 
 Anschließend geben wir eine praktische Einführung in die gebräuchlichsten
 Python-Bibliotheken.
