@@ -134,6 +134,10 @@ intersphinx_mapping = {
     "pandas": ("https://pandas.pydata.org/pandas-docs/stable/", None),
 }
 
+linkcheck_allowed_redirects = {
+    r"https://results\.pre-commit\.ci/latest/github/veit/pyviz-tutorial/main": r"https://results\.pre-commit\.ci/run/github/*",
+}
+
 
 def setup(app):
     # from sphinx.ext.autodoc import cut_lines
