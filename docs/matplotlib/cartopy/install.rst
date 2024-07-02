@@ -82,6 +82,6 @@ Anforderungen zum Plotten
 
 Schließlich könnt ihr die Installation überprüfen mit:
 
-.. code-block:: python
+.. code-block:: pycon
 
     >>> import cartopy

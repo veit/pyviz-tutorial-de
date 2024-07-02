@@ -24,6 +24,6 @@ Alternativ könnt ihr seaborn auch mit anderen Paketmanagern installieren,
 
 Die Installation könnt ihr überprüfen mit
 
-.. code-block:: python
+.. code-block:: pycon
 
     >>> import seaborn as sns

@@ -24,6 +24,6 @@ Alternativ könnt ihr GeoPandas auch mit anderen Paketmanagern installieren,
 
 Die Installation könnt ihr dann überprüfen mit:
 
-.. code-block:: python
+.. code-block:: pycon
 
     >>> import geopandas as gpd

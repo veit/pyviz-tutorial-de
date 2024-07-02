@@ -24,6 +24,6 @@ Alternativ könnt ihr pandas auch mit anderen Paketmanagern installieren,
 
 Die Installation könnt Ihr dann überprüfen mit:
 
-.. code-block:: python
+.. code-block:: pycon
 
     >>> import pandas as pd

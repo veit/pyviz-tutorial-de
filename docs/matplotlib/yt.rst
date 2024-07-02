@@ -25,7 +25,7 @@ Die Installation könnt ihr dann überprüfen mit:
 Beispiel
 --------
 
-.. code-block:: python
+.. code-block:: pycon
 
     >>> import yt
     >>> ds = yt.load("IsolatedGalaxy/galaxy0030/galaxy0030")
@@ -34,7 +34,7 @@ Beispiel
     yt : [INFO     ] 2019-06-05 13:10:39,585 Parameters: domain_left_edge          = [0. 0. 0.]
     yt : [INFO     ] 2019-06-05 13:10:39,586 Parameters: domain_right_edge         = [1. 1. 1.]
     yt : [INFO     ] 2019-06-05 13:10:39,588 Parameters: cosmological_simulation   = 0.0
-    >>> ds.r[0.45:0.55,:,:].sum("cell_mass").in_units("Mjup")
+    >>> ds.r[0.45:0.55, :, :].sum("cell_mass").in_units("Mjup")
     Parsing Hierarchy : 100%|██████████| 173/173 [00:00<00:00, 3427.19it/s]
     yt : [INFO     ] 2019-06-05 13:10:39,676 Gathering a field list (this may take a moment.)
     9985379895930.627 Mjup

@@ -19,7 +19,7 @@ Alternativ könnt ihr Matplotlib auch mit anderen Paketmanagern installieren,
 
 Die Installation könnt ihr dann überprüfen mit:
 
-.. code-block:: python
+.. code-block:: pycon
 
     >>> import matplotlib.pyplot as plt
 
@@ -28,7 +28,7 @@ Die Installation könnt ihr dann überprüfen mit:
     environment variable`` erhaltet, müsst ihr vermutlich das iPython-Backend
     für Matplotlib verwenden mit
 
-    .. code-block:: python
+   .. code-block:: ipython
 
        import matplotlib.pyplot as plt
 
