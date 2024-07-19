@@ -21,22 +21,12 @@ wir einige Aspekte genauer beleuchten:
 Anschließend geben wir eine praktische Einführung in die gebräuchlichsten
 Python-Bibliotheken.
 
-Wir behandeln hier jedoch nicht Design-Prinzipien, Data-Storytelling oder die
-Auswahl des passenden Diagrammtyps. Hierzu verweisen wir jedoch gerne auf die
-folgenden Quellen:
-
-.. seealso::
-
-   * `Data Visualisation Guide
-     <https://data.europa.eu/apps/data-visualisation-guide/>`_
-   * `Graphical Perception: Theory, Experimentation, and Application to the
-     Development of Graphical Methods
-     <https://www.math.pku.edu.cn/teachers/xirb/Courses/biostatistics/Biostatistics2016/GraphicalPerception_Jasa1984.pdf>`_
-   * `Financial Times Chart Doctor: Visual vocabluary
-     <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>`_
-   * `The Data Visualisation Catalogue <https://datavizcatalogue.com/>`_
-   * `Cartography Guide <https://www.axismaps.com/guide/map-projections>`_
-   * `Xenographics <https://xeno.graphics/>`_
+Wir behandeln hier jedoch nicht :doc:`Design-Prinzipien
+<cusy-design:viz/diagram-anatomy/index>`, den
+:doc:`cusy-design:viz/diagram-anatomy/index`, :doc:`Data-Storytelling
+<cusy-design:viz/data-storytelling>` oder die :doc:`Auswahl des passenden
+Diagrammtyps <cusy-design:viz/types/index>`. Hierzu verweisen wir jedoch gerne
+auf das :doc:`cusy-design:index`.
 
 .. toctree::
     :titlesonly:
