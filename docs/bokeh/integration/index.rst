@@ -2,7 +2,7 @@ Bokeh-Integration
 =================
 
 Bokeh spielt auch mit anderen Visualisierungsbibliotheken wie `Vaex
-<https://github.com/vaexio/vaex>`_, `HoloViews <http://holoviews.org/>`_
+<https://github.com/vaexio/vaex>`_, `HoloViews <https://holoviews.org>`_
 oder `Datashader <datashader.ipynb>`_ zusammen.
 
 .. toctree::

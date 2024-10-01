@@ -1,14 +1,14 @@
 plotnine
 ========
 
-`plotnine <https://plotnine.readthedocs.io/en/stable/>`_ implementiert `The
-Grammar of Graphics <https://link.springer.com/book/10.1007/0-387-28695-0>`_ in
-Python basierend auf `ggplot2 <https://ggplot2.tidyverse.org/>`_. Die Grammatik
-erlaubt die einfache Beschreibung auch von komplexen Grafiken.
+`plotnine <https://plotnine.org>`_ implementiert `The Grammar of Graphics
+<https://link.springer.com/book/10.1007/0-387-28695-0>`_ in Python basierend auf
+`ggplot2 <https://ggplot2.tidyverse.org>`_. Die Grammatik erlaubt die einfache
+Beschreibung auch von komplexen Grafiken.
 
 .. seealso::
 
-   `plotnine documentation <https://plotnine.readthedocs.io/en/stable/>`_
+   `plotnine documentation <https://plotnine.org>`_
         API-Referenz, Gallerie, Tutorials etc.
    `ggplot2 documentation <https://ggplot2.tidyverse.org/reference/index.html>`_
         plotnine verwendet eine ähnliche API und Pipeline wie ggplt2

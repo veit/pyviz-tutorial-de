@@ -10,7 +10,7 @@ Python-Bibliotheken
     Python-Schnittstelle zu Graphviz ähnlich wie :doc:`../networkx`
 `GvGen <https://github.com/stricaud/gvgen>`_
     Python-Klasse zur Erzeugung von Dot-Dateien
-`pytm <https://github.com/izar/pytm/>`_
+`pytm <https://github.com/OWASP/pytm>`_
     Framework für die Modellierung von Buffer Overflows, SQL Injections, CSRF
     :abbr:`etc. (et cetera)`
 :doc:`../graph-tool`

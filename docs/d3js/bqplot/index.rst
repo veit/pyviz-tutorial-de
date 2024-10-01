@@ -10,7 +10,7 @@ Graphics (Statistics and Computing)
 
 .. seealso::
 
-   * `Docs <https://bqplot.readthedocs.io/>`_
+   * `Docs <https://bqplot.readthedocs.io/en/latest/>`_
    * `GitHub <https://github.com/bqplot/bqplot>`_
    * `Gallery <https://bqplot.github.io/bqplot-gallery/>`_
 
