@@ -1,0 +1,38 @@
+[project]
+name = "pyviz-tutorial"
+version = "24.1.0"
+authors = [
+  { name="Veit Schiele", email="veit@cusy.io" },
+]
+description = "Schulungsmaterialen für die cusy Python-Schulungen: https://cusy.io/de/seminare"
+readme = "README.rst"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.optional-dependencies]
+docs = [
+    "furo",
+    "ipython",
+    "ipywidgets",
+    "nbsphinx",
+    "sphinxext.opengraph", # matplotlib is required for social cards
+    "matplotlib",
+    "sphinx_copybutton",
+    "sphinx-inline-tabs",
+    "sphinxcontrib-svg2pdfconverter",
+    "sphinx-lint",
+]
+
+dev = [
+    "pyviz-tutorial[docs]",
+    "pre-commit",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/veit/pyviz-tutorial/"
+"Bug Tracker" = "https://github.com/veit/pyviz-tutorial/issues"
