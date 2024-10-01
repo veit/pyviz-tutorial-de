@@ -17,3 +17,6 @@ node_modules
 fortune500.csv
 mprun_demo.py
 test.png
+
+# vale
+styles/*
