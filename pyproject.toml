@@ -31,8 +31,12 @@ docs = [
 dev = [
     "pyviz-tutorial[docs]",
     "pre-commit",
+    "codespell",
 ]
 
 [project.urls]
 "Homepage" = "https://github.com/veit/pyviz-tutorial/"
 "Bug Tracker" = "https://github.com/veit/pyviz-tutorial/issues"
+
+[tool.codespell]
+skip = "*.ipynb, *.rst, *.svg, ./pyviz_tutorial.egg-info/*"
