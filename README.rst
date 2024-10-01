@@ -100,7 +100,6 @@ Folge uns
 ---------
 
 * `GitHub <https://github.com/veit/pyviz-tutorial>`_
-* `Twitter <https://twitter.com/PyvizTutorial>`_
 * `Mastodon <https://mastodon.social/@PyViz>`_
 
 Pull-Requests

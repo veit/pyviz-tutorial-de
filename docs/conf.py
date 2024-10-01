@@ -138,12 +138,21 @@ intersphinx_mapping = {
     "jupyter-tutorial": ("https://jupyter-tutorial.readthedocs.io/de/latest/", None),
     "python4datascience": ("https://python4data.science/de/latest/", None),
     "cusy-design": ("https://www.cusy.design/de/latest/", None),
-    "bokeh": ("https://docs.bokeh.org/en/latest/", None),
+    "bokeh": ("https://docs.bokeh.org/en/latest", None),
     "pandas": ("https://pandas.pydata.org/pandas-docs/stable/", None),
 }
 
+linkcheck_ignore = [
+    r"https://maps.stamen.com",
+    # 403 Client Error: Forbidden for url
+    r"https://sourceforge.net",
+    # Anchor not found
+    r"https://docs.bokeh.org/en/latest/docs/user_guide/styling/visuals.html*",
+]
+
 linkcheck_allowed_redirects = {
     r"https://results\.pre-commit\.ci/latest/github/veit/pyviz-tutorial/main": r"https://results\.pre-commit\.ci/run/github/*",
+    r"https://github.com/veit/pyviz-tutorial/fork": r"https://github.com/login?.*",
 }
 
 

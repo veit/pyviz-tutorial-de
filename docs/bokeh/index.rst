@@ -54,7 +54,7 @@ Optionale Erweiterungen
 
 Es gibt Erweiterungen für Bokeh für die folgenden Funktionen:
 
-`NodeJS <https://nodejs.org/de>`_
+`NodeJS <https://nodejs.org/en/>`_
     Notwendig zum Erweitern von Bokeh oder zum Definieren von
     ``CustomJS``-Implementierungen in CoffeeScript oder TypeScript
 `pandas <https://pandas.pydata.org/>`_
