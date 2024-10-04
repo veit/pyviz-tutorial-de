@@ -56,9 +56,9 @@ Exemplarisch betten wir Bokeh-Plots in das `Flask
              doc.theme = Theme(filename="theme.yaml")
 
    #. Mit ``bokeh.sampledata.sea_surface_temperature`` werden Beispieldaten
-       verwendet, die aufgrund ihrer Größe nicht im Bokeh-Paket enthalten sind. Nach
-       der Installation von Bokeh können diese jedoch mit folgendem Befehl
-       heruntergeladen werden:
+      verwendet, die aufgrund ihrer Größe nicht im Bokeh-Paket enthalten sind.
+      Nach der Installation von Bokeh können diese jedoch mit folgendem Befehl
+      heruntergeladen werden:
 
        .. code-block:: sh
 
@@ -98,8 +98,8 @@ Exemplarisch betten wir Bokeh-Plots in das `Flask
              return render_template("embed.html", script=script, framework="Flask")
 
    #. ``script`` und ``framework`` werden anschließend in ein
-      `Jinja2 <https://jinja.palletsprojects.com/en/3.1.x/>`_-Template :file:`templates/embed.html`
-      eingebunden, das den Plot anzeigen soll:
+      `Jinja2 <https://jinja.palletsprojects.com/en/3.1.x/>`_-Template
+      :file:`templates/embed.html` eingebunden, das den Plot anzeigen soll:
 
       .. code-block:: html
 
