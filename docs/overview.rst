@@ -182,6 +182,7 @@ Technologien
         iris -- cartopy [color="#BF80FF"]
         yt -- mpl [color="#BF80FF"]
         yt -- opengl [color="#BF80FF;0.5:#FF66B3", style="dashed"]
+        mpl -- mpld3 [color="#BF80FF;0.5:#4da6ff"]
         mpl -- ipympl [color="#BF80FF;0.5:#00FFFF"]
         mpl -- mpl_altair [color="#BF80FF;0.5:#00FF80"]
 
@@ -302,7 +303,14 @@ Technologien
             color="#4da6ff",
             target="_top",
             href="https://github.com/plotly/plotly.py"]
+        mpld3 [
+            label="mpld3",
+            tooltip="Matplotlib für\nden Webbrowser",
+            color="#4da6ff",
+            target="_top",
+            href="https://mpld3.github.io/"]
         d3js -- bqplot [color="#4da6ff"]
+        d3js -- mpld3 [color="#4da6ff"]
         d3js -- plotly [color="#4da6ff"]
         d3js -- d3po [color="#4da6ff"]
         d3js -- vega [color="#4da6ff;0.5:#00FF80"]
@@ -502,6 +510,7 @@ Weitere Bibliotheken
     "`scikit-image <https://github.com/scikit-image/scikit-image/>`_",".. image:: https://raster.shields.io/github/stars/scikit-image/scikit-image",".. image:: https://raster.shields.io/github/contributors/scikit-image/scikit-image",".. image:: https://raster.shields.io/github/commit-activity/y/scikit-image/scikit-image",".. image:: https://raster.shields.io/github/license/scikit-image/scikit-image"
     "`Yellowbrick <https://github.com/DistrictDataLabs/yellowbrick/>`_",".. image:: https://raster.shields.io/github/stars/DistrictDataLabs/yellowbrick",".. image:: https://raster.shields.io/github/contributors/DistrictDataLabs/yellowbrick",".. image:: https://raster.shields.io/github/commit-activity/y/DistrictDataLabs/yellowbrick",".. image:: https://raster.shields.io/github/license/DistrictDataLabs/yellowbrick"
     "`missingno <https://github.com/ResidentMario/missingno>`_",".. image:: https://raster.shields.io/github/stars/ResidentMario/missingno",".. image:: https://raster.shields.io/github/contributors/ResidentMario/missingno",".. image:: https://raster.shields.io/github/commit-activity/y/ResidentMario/missingno",".. image:: https://raster.shields.io/github/license/ResidentMario/missingno"
+    "`mpld3 <https://github.com/mpld3/mpld3>`_",".. image:: https://raster.shields.io/github/stars/mpld3/mpld3",".. image:: https://raster.shields.io/github/contributors/mpld3/mpld3",".. image:: https://raster.shields.io/github/commit-activity/y/mpld3/mpld3",".. image:: https://raster.shields.io/github/license/mpld3/mpld3"
     "`napari <https://github.com/napari/napari>`_",".. image:: https://raster.shields.io/github/stars/napari/napari",".. image:: https://raster.shields.io/github/contributors/napari/napari",".. image:: https://raster.shields.io/github/commit-activity/y/napari/napari",".. image:: https://raster.shields.io/github/license/napari/napari"
     "`HyperTools <https://github.com/ContextLab/hypertools>`_",".. image:: https://raster.shields.io/github/stars/ContextLab/hypertools",".. image:: https://raster.shields.io/github/contributors/ContextLab/hypertools",".. image:: https://raster.shields.io/github/commit-activity/y/ContextLab/hypertools",".. image:: https://raster.shields.io/github/license/ContextLab/hypertools"
     "`ipympl <https://github.com/matplotlib/ipympl>`_",".. image:: https://raster.shields.io/github/stars/matplotlib/ipympl",".. image:: https://raster.shields.io/github/contributors/matplotlib/ipympl",".. image:: https://raster.shields.io/github/commit-activity/y/matplotlib/ipympl",".. image:: https://raster.shields.io/github/license/matplotlib/ipympl"
@@ -630,14 +639,13 @@ Graphen und Netzwerke
 Ruhende Projekte
 ----------------
 
-.. csv-table:: GitHub-Insights: Ruhende Projekte (Stand: 18.12.2023)
+.. csv-table:: GitHub-Insights: Ruhende Projekte (Stand: 07.10.2024)
     :header: "Name", "Stars", "Mitwirkende", "Commit-Aktivität", "Lizenz"
 
     "`graph-tool <https://github.com/antmd/graph-tool>`_",".. image:: https://raster.shields.io/github/stars/antmd/graph-tool",".. image:: https://raster.shields.io/github/contributors/antmd/graph-tool",".. image:: https://raster.shields.io/github/commit-activity/y/antmd/graph-tool",".. image:: https://raster.shields.io/github/license/antmd/graph-tool"
     "`ggpy <https://github.com/yhat/ggpy>`_",".. image:: https://raster.shields.io/github/stars/yhat/ggpy",".. image:: https://raster.shields.io/github/contributors/yhat/ggpy",".. image:: https://raster.shields.io/github/commit-activity/y/yhat/ggpy",".. image:: https://raster.shields.io/github/license/yhat/ggpy"
     "`cufflinks <https://github.com/santosjorge/cufflinks>`_",".. image:: https://raster.shields.io/github/stars/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/contributors/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/commit-activity/y/santosjorge/cufflinks",".. image:: https://raster.shields.io/github/license/santosjorge/cufflinks"
     "`scikit-plot <https://github.com/reiinakano/scikit-plot>`_",".. image:: https://raster.shields.io/github/stars/reiinakano/scikit-plot",".. image:: https://raster.shields.io/github/contributors/reiinakano/scikit-plot",".. image:: https://raster.shields.io/github/commit-activity/y/reiinakano/scikit-plot",".. image:: https://raster.shields.io/github/license/reiinakano/scikit-plot"
-    "`mpld3 <https://github.com/mpld3/mpld3>`_",".. image:: https://raster.shields.io/github/stars/mpld3/mpld3",".. image:: https://raster.shields.io/github/contributors/mpld3/mpld3",".. image:: https://raster.shields.io/github/commit-activity/y/mpld3/mpld3",".. image:: https://raster.shields.io/github/license/mpld3/mpld3"
     "`vincent <https://github.com/wrobstory/vincent>`_",".. image:: https://raster.shields.io/github/stars/wrobstory/vincent",".. image:: https://raster.shields.io/github/contributors/wrobstory/vincent",".. image:: https://raster.shields.io/github/commit-activity/y/wrobstory/vincent",".. image:: https://raster.shields.io/github/license/wrobstory/vincent"
     "`geoplotlib <https://github.com/andrea-cuttone/geoplotlib/>`__",".. image:: https://raster.shields.io/github/stars/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/contributors/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/commit-activity/y/andrea-cuttone/geoplotlib",".. image:: https://raster.shields.io/github/license/andrea-cuttone/geoplotlib"
     "`gmplot <https://github.com/gmplot/gmplot>`__",".. image:: https://raster.shields.io/github/stars/gmplot/gmplot",".. image:: https://raster.shields.io/github/contributors/gmplot/gmplot",".. image:: https://raster.shields.io/github/commit-activity/y/gmplot/gmplot",".. image:: https://raster.shields.io/github/license/gmplot/gmplot"
