@@ -31,7 +31,7 @@ Technologien
             tooltip="Open Graphics Library",
             color="#FF66B3",
             target="_top",
-            href="../opengl/index.html"]
+            href="opengl/index.html"]
         VisPy [
             label="Vispy",
             tooltip="Python-Bibliothek für\ninteraktive wissenschaftliche\nVisualisierungen",
@@ -81,25 +81,25 @@ Technologien
             tooltip="Python-Bibliothek\nfür 2D-Plots",
             color="#BF80FF"
             target="_top",
-            href="../matplotlib/index.html"]
+            href="matplotlib/index.html"]
         mpl_scatter_density [
             label="mpl-scatter-density",
             tooltip="Streudichtekarten für die\naussagekräftige Darstellungen\ngroßer Datensätze",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/mpl-scatter-density.html"]
+            href="matplotlib/mpl-scatter-density.html"]
         pandas [
             label="pandas",
             tooltip="pandas Datenstrukturen mit\nMatplotlib visualisieren",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/pandas/index.html"]
+            href="matplotlib/pandas/index.html"]
         geopandas [
             label="GeoPandas",
             tooltip="GeoPandas erweitert pandas um geometrische Datentypen",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/geopandas/index.html"]
+            href="matplotlib/geopandas/index.html"]
         geoplot [
             label="Geoplot",
             tooltip="High-level-Bibliothek zum Plotten von Geodaten",
@@ -117,13 +117,13 @@ Technologien
             tooltip="High-level-Datenvisualisierung\nbasierend auf Matplotlib",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/seaborn/index.html"]
+            href="matplotlib/seaborn/index.html"]
         plotnine [
             label="plotnine",
             tooltip="Python-Implementierung von ggplot2",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/plotnine/index.html"]
+            href="matplotlib/plotnine/index.html"]
         yellowbrick [
             label="Yellowbrick",
             tooltip="Tools für die visuelle Analyse und Diagnose\nvon Scikit-learn-Projekten",
@@ -135,37 +135,37 @@ Technologien
             tooltip="Erstellen, Ändern und Analysieren\nkomplexer Netzwerke",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/networkx.html"]
+            href="matplotlib/networkx.html"]
         graphviz [
             label="Graphviz",
             tooltip="Mächtige Visualisierungssoftware\nfür Graphen",
             color="#cccccc",
             target="_top",
-            href="../matplotlib/graphviz.html"]
+            href="matplotlib/graphviz.html"]
         graph_tool [
             label="graph-tool",
             tooltip="Effizientes Python-Modul zur\nManipulation und statistischen Analyse\n von Graphen",
             color="#cccccc",
             target="_top",
-            href="../matplotlib/graph-tool.html"]
+            href="matplotlib/graph-tool.html"]
         cartopy [
             label="Cartopy",
             tooltip="Erstellen von Karten und\nAnalyse von Geodaten",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/cartopy/index.html"]
+            href="matplotlib/cartopy/index.html"]
         iris [
             label="Iris",
             tooltip="Visualisierung auf Basis der Climate\nand Forecast (CF) Conventions",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/iris.html"]
+            href="matplotlib/iris.html"]
         yt [
             label="yt",
             tooltip="Python-Bibliothek zur Analyse\nund Visualisierung von Volumendaten",
             color="#BF80FF",
             target="_top",
-            href="../matplotlib/yt.html"]
+            href="matplotlib/yt.html"]
         mpl -- pandas [color="#BF80FF"]
         mpl -- mpl_scatter_density [color="#BF80FF"]
         pandas  -- geopandas [color="#BF80FF"]
@@ -192,7 +192,7 @@ Technologien
             tooltip="Interaktive Python-Bibliothek\nzur Datenvisualisierung\nin modernen Webbrowsern",
             color="#9999FF",
             target="_top",
-            href="../bokeh/index.html"]
+            href="bokeh/index.html"]
         vaex [
             label="Vaex",
             tooltip="Python-Bibliothek zur Datenanalyse\nund -visualisierung",
@@ -210,19 +210,19 @@ Technologien
             tooltip="High-level-Plot-API\nauf Basis von HoloViews",
             color="#9999FF",
             target="_top",
-            href="../bokeh/integration/holoviews/hvplot/index.html"]
+            href="bokeh/integration/holoviews/hvplot/index.html"]
         datashader [
             label="Datashader",
             tooltip="Grafik-Pipeline-System für\naussagekräftige Darstellungen\ngroßer Datensätze",
             color="#9999FF",
             target="_top",
-            href="../bokeh/integration/datashader.html"]
+            href="bokeh/integration/datashader.html"]
         geoviews [
             label="GeoViews",
             tooltip="Analysieren und Visualisieren von\ngeographischen, meterologischen\nund ozeanischen Daten",
             color="#9999FF",
             target="_top",
-            href="../bokeh/integration/holoviews/geoviews.html"]
+            href="bokeh/integration/holoviews/geoviews.html"]
         geoviews -- cartopy [color="#9999FF;0.5:#BF80FF"]
         geoviews -- holoviews [color="#9999FF"]
         geoviews -- geopandas [color="#9999FF;0.5:#BF80FF", style="dashed"]
@@ -247,7 +247,7 @@ Technologien
             tooltip="Deklarative Sprache für\ninteraktive Visualisierungen",
             color="#00FF80",
             target="_top",
-            href="../vega/index.html"]
+            href="vega/index.html"]
         vega_light [
             label="Vega-Lite",
             tooltip="High-level-Grammatik für\nkomplexe Vega-Anwendungen",
@@ -259,7 +259,7 @@ Technologien
             tooltip="Interaktive Vega-Light-Plots\naus pandas Dataframes",
             color="#00FF80",
             target="_top",
-            href="../vega/pdvega/index.html"]
+            href="vega/pdvega/index.html"]
         altair [
             label="Altair",
             tooltip="Deklarative Visualisierung\nin Python",
@@ -284,13 +284,13 @@ Technologien
             tooltip="Javascript-Bibliothek mit mächtigen\nVisualisierungskomponenten",
             color="#4da6ff",
             target="_top",
-            href="../d3js/index.html"]
+            href="d3js/index.html"]
         bqplot [
             label="bqplot",
             tooltip="Interaktive Plots\nmit D3.js und ipywidgets",
             color="#4da6ff",
             target="_top",
-            href="../d3js/bqplot/index.html"]
+            href="d3js/bqplot/index.html"]
         d3po [
             label="d3po",
             tooltip="Javascript-Bibliothekt zum\nErstellen von D3.js-Charts",
@@ -322,19 +322,19 @@ Technologien
             tooltip="Skriptsprache, die ursprünglich für\ndynamisches HTML in Webbrowsern\nentwickelt wurde",
             color="#00FFFF",
             target="_top",
-            href="../js/index.html"]
+            href="js/index.html"]
         pythreejs [
             label="pythreejs",
             tooltip="Notebook-Extension\nfür WebGL-fähige Webbrowser",
             color="#00FFFF",
             target="_top",
-            href="../js/pythreejs.html"]
+            href="js/pythreejs.html"]
         ipyvolume [
             label="IPyvolume",
             tooltip="Python-Bibliothek zur\nVisualisierung von\nVolumen und -Glyphen",
             color="#00FFFF",
             target="_top",
-            href="../js/ipyvolume.html"]
+            href="js/ipyvolume.html"]
         toyplot [
             label="Toyplot",
             tooltip="Leichtgewichtige Bibliothek\nfür ästhetische Plots",
@@ -346,13 +346,13 @@ Technologien
             tooltip="Interaktive Karten für\nJupyter Notebooks",
             color="#00FFFF",
             target="_top",
-            href="../js/ipyleaflet.html"]
+            href="js/ipyleaflet.html"]
         xarray_leaflet [
             label="xarray-leaflet",
             tooltip="xarray extension für Kartendarstellungen",
             color="#00FFFF",
             target="_top",
-            href="../js/xarray-leaflet.html"]
+            href="js/xarray-leaflet.html"]
         ipympl [
             label="ipympl",
             tooltip="Matplotlib\nJupyter Extension",
