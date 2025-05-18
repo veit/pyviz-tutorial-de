@@ -122,3 +122,4 @@ Trainings:
     opengl/index
     d3js/index
     js/index
+    protomaps/index
