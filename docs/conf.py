@@ -41,14 +41,15 @@ release = re.sub("^v", "", os.popen("git describe --abbrev=0").read().strip())
 # ones.
 extensions = [
     "nbsphinx",
+    "notfound.extension",
     "sphinx.ext.autodoc",
-    "sphinx.ext.intersphinx",
     "sphinx.ext.graphviz",
+    "sphinx.ext.intersphinx",
     "sphinx.ext.todo",
-    "sphinxcontrib.rsvgconverter",
-    "sphinxext.opengraph",
     "sphinx_copybutton",
     "sphinx_inline_tabs",
+    "sphinxcontrib.rsvgconverter",
+    "sphinxext.opengraph",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
