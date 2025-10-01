@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v4
     - uses: pandoc/actions/setup@v1
     - uses: ts-graphviz/setup-graphviz@v2
-    - uses: actions/setup-python@v5
+    - uses: actions/setup-python@v6
       with:
         cache: pip
         # Keep in sync with .readthedocs.yaml
