@@ -1,49 +1,52 @@
 [project]
 name = "pyviz-tutorial"
 version = "24.1.0"
-authors = [
-  { name="Veit Schiele", email="veit@cusy.io" },
-]
 description = "Schulungsmaterialen für die cusy Python-Schulungen: https://cusy.io/de/seminare"
 readme = "README.rst"
+authors = [
+  { name = "Veit Schiele", email = "veit@cusy.io" },
+]
 requires-python = ">=3.9"
 classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: BSD License",
-    "Operating System :: OS Independent",
+  "License :: OSI Approved :: BSD License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
 ]
-dependencies = []
+dependencies = [  ]
+
+urls."Bug Tracker" = "https://github.com/veit/pyviz-tutorial/issues"
+urls."Homepage" = "https://github.com/veit/pyviz-tutorial/"
 
 [dependency-groups]
-docs = [
-    "furo",
-    "ipython",
-    "ipywidgets",
-    "matplotlib",
-    "nbsphinx",
-    "sphinx<8.2",
-    "sphinx-inline-tabs",
-    "sphinx-lint",
-    "sphinx-notfound-page",
-    "sphinx-sitemap",
-    "sphinx_copybutton",
-    "sphinxcontrib-svg2pdfconverter",
-    "sphinxext.opengraph", # matplotlib is required for social cards
-]
-
 dev = [
-    { include-group = "docs" },
-    "pre-commit",
-    "codespell",
-    "vale",
+  "codespell",
+  "pre-commit",
+  "vale",
+  { include-group = "docs" },
 ]
-
-[project.urls]
-"Homepage" = "https://github.com/veit/pyviz-tutorial/"
-"Bug Tracker" = "https://github.com/veit/pyviz-tutorial/issues"
+docs = [
+  "furo",
+  "ipython",
+  "ipywidgets",
+  "matplotlib",
+  "nbsphinx",
+  "sphinx<8.2",
+  "sphinx-copybutton",
+  "sphinx-inline-tabs",
+  "sphinx-lint",
+  "sphinx-notfound-page",
+  "sphinx-sitemap",
+  "sphinxcontrib-svg2pdfconverter",
+  "sphinxext-opengraph",            # matplotlib is required for social cards
+]
 
 [tool.setuptools]
-packages = []
+packages = [  ]
 
 [tool.codespell]
 skip = "*.ipynb, *.rst, *.svg, ./pyviz_tutorial.egg-info/*"
