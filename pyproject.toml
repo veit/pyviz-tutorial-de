@@ -3,12 +3,13 @@ name = "pyviz-tutorial"
 version = "24.1.0"
 description = "Schulungsmaterialen für die cusy Python-Schulungen: https://cusy.io/de/seminare"
 readme = "README.rst"
+license = "BSD-3-Clause"
+license-files = [ "LICENSE" ]
 authors = [
   { name = "Veit Schiele", email = "veit@cusy.io" },
 ]
 requires-python = ">=3.9"
 classifiers = [
-  "License :: OSI Approved :: BSD License",
   "Operating System :: OS Independent",
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.9",
