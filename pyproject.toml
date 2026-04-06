@@ -20,7 +20,7 @@ classifiers = [
 ]
 dependencies = []
 urls."Bug Tracker" = "https://github.com/veit/pyviz-tutorial/issues"
-urls."Homepage" = "https://github.com/veit/pyviz-tutorial/"
+urls.Homepage = "https://github.com/veit/pyviz-tutorial/"
 
 [dependency-groups]
 dev = [

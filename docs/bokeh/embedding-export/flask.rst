@@ -88,7 +88,6 @@ Exemplarisch betten wir Bokeh-Plots in das `Flask
          from bokeh.embed import server_document
          from flask import render_template
 
-
          ...
 
 
@@ -128,7 +127,6 @@ Exemplarisch betten wir Bokeh-Plots in das `Flask
 
          from flask import Flask
          from tornado.ioloop import IOLoop
-
 
          ...
 
