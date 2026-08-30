@@ -10,17 +10,16 @@ eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
     $ spack install py-seaborn
 
 Alternativ könnt ihr seaborn auch mit anderen Paketmanagern installieren,
-:abbr:`z.B. (zum Beispiel)` mit :doc:`Pipenv
-<python4datascience:productive/envs/pipenv/index>`.
+:abbr:`z.B. (zum Beispiel)` mit :doc:`uv
+<python4datascience:productive/envs/uv/index>`.
 
 .. note::
-   Falls ihr pipenv noch nicht installiert habt, findet ihr eine Anleitung
-   hierzu unter :doc:`Pipenv-Installation
-   <python4datascience:productive/envs/pipenv/index>`.
+   Falls ihr uv noch nicht installiert habt, findet ihr eine hierzu unter
+   :ref:`uv-Installation <python-basics:uv>`.
 
 .. code-block:: console
 
-    $ pipenv install seaborn
+    $ uv add seaborn
 
 Die Installation könnt ihr überprüfen mit
 

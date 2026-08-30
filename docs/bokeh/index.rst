@@ -47,7 +47,7 @@ Alternativ könnt ihr Bokeh auch mit anderen Paketmanagern installieren,
 
 .. code-block:: console
 
-    $ pipenv install bokeh
+    $ uv add bokeh
 
 Optionale Erweiterungen
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ Die meisten dieser Beispiele nutzen Beispieldaten, die ebenfalls separat zur
 Verfügung gestellt werden müssen. Um diese Dateien herunterzuladen, gebt
 einfach folgendes ein::
 
-    $ pipenv run bokeh sampledata
+    $ uv run bokeh sampledata
 
 .. toctree::
     :titlesonly:

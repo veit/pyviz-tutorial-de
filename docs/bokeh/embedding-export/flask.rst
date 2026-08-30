@@ -10,7 +10,7 @@ Exemplarisch betten wir Bokeh-Plots in das `Flask
 
     $ mkdir embed
     $ cd !$
-    $ pipenv install flask bokeh pandas
+    $ uv add flask bokeh pandas
 
 #. Einbinden von Bokeh-Plots in Flask:
 
@@ -62,7 +62,7 @@ Exemplarisch betten wir Bokeh-Plots in das `Flask
 
        .. code-block:: sh
 
-          $ pipenv run bokeh sampledata
+          $ uv run bokeh sampledata
 
    #. Anschließend erstellen wir folgende :file:`theme.yaml`-Datei für die
       Gestaltung von ``Figure`` und ``Grid``:
@@ -170,14 +170,14 @@ Exemplarisch betten wir Bokeh-Plots in das `Flask
    .. code-block:: sh
 
     $ export FLASK_APP=flask_embed.py
-    $ pipenv run flask run
+    $ uv run flask run
 
    oder, falls mehrere Bokeh-Worker gestartet werden sollen:
 
    .. code-block:: sh
 
     $ export FLASK_APP=flask_gunicorn_embed.py
-    $ pipenv run flask run
+    $ uv run flask run
 
 .. seealso::
 

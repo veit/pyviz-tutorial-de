@@ -5,13 +5,8 @@ PdVega kann installiert werden mit
 
 .. code-block:: console
 
-    $ pipenv install pdvega
-    Installing pdvega…
-    Adding pdvega to Pipfile's [packages]…
-    ✔ Installation Succeeded
-    …
-    $ pipenv run jupyter nbextension install --sys-prefix --py vega3
-    Installing /srv/jupyter/.local/share/virtualenvs/python-374-c_ntaqVM/lib/python3.7/site-packages/vega3/static -> jupyter-vega3
+    $ uv add pdvega
+    $ uv run jupyter nbextension install --sys-prefix --py vega3
     …
     - Validating: OK
 

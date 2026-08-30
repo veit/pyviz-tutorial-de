@@ -10,17 +10,16 @@ eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
     $ spack install py-pandas
 
 Alternativ könnt ihr pandas auch mit anderen Paketmanagern installieren,
-:abbr:`z.B. (zum Beispiel)` mit :doc:`Pipenv
-<python4datascience:productive/envs/pipenv/index>`.
+:abbr:`z.B. (zum Beispiel)` mit :doc:`uv
+<python4datascience:productive/envs/uv/index>`.
 
 .. note::
-   Falls ihr pipenv noch nicht installiert habt, findet ihr eine Anleitung
-   hierzu unter :doc:`Pipenv-Installation
-   <python4datascience:productive/envs/pipenv/install>`.
+   Falls ihr uv noch nicht installiert habt, findet ihr eine Anleitung hierzu
+   unter :ref:`uv-Installation <python-basics:uv>`.
 
 .. code-block:: console
 
-    $ pipenv install pandas
+    $ uv add pandas
 
 Die Installation könnt Ihr dann überprüfen mit:
 

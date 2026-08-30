@@ -52,14 +52,14 @@ Beispiel)` mit:
 .. code-block:: console
 
     $ export PIP_NO_BINARY=:shapely:
-    $ pipenv install cython numpy cartopy
+    $ uv add cython numpy cartopy
 
 Für die :doc:`examples` benötigt ihr dann zusätzlich die folgenden beiden
 Python-Pakete:
 
 .. code-block:: console
 
-    $ pipenv install matplotlib scipy
+    $ uv add matplotlib scipy
 
 Optionale Anforderungen
 -----------------------

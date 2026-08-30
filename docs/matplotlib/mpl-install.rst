@@ -10,12 +10,12 @@ in eurem Kernel bereitstellen, :abbr:`z.B. (zum Beispiel)` mit:
     $ spack install py-matplotlib
 
 Alternativ könnt ihr Matplotlib auch mit anderen Paketmanagern installieren,
-:abbr:`z.B. (zum Beispiel)` mit :doc:`Pipenv
-<python4datascience:productive/envs/pipenv/index>`:
+:abbr:`z.B. (zum Beispiel)` mit :doc:`uv
+<python4datascience:productive/envs/uv/index>`:
 
 .. code-block:: console
 
-    $ pipenv install matplotlib
+    $ uv add matplotlib
 
 Die Installation könnt ihr dann überprüfen mit:
 
