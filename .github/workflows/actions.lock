@@ -5,14 +5,14 @@ version: 'v0.0.3'
 workflows:
     '.github/workflows/docs.yml':
         - 'actions/checkout@v7.0.1'
-        - 'actions/setup-python@v7.0.0'
+        - 'actions/setup-python@v7.1.0'
         - 'hynek/setup-cached-uv@v2.6.0'
         - 'pandoc/actions@v1.1.1'
-        - 'ts-graphviz/setup-graphviz@v2.0.2'
+        - 'ts-graphviz/setup-graphviz@v2.0.3'
     '.github/workflows/pre-commit.yml':
         - 'actions/cache@v6.1.0'
         - 'actions/checkout@v7.0.1'
-        - 'actions/setup-python@v7.0.0'
+        - 'actions/setup-python@v7.1.0'
         - 'pre-commit/action@v3.0.1'
     '.github/workflows/zizmor.yml':
         - 'actions/checkout@v7.0.1'
@@ -38,9 +38,9 @@ dependencies:
         commit: 'sha1-3d3c42e5aac5ba805825da76410c181273ba90b1'
         owner_id: 44036562
         repo_id: 197814629
-    'actions/setup-python@v7.0.0':
-        ref: 'v7.0.0'
-        commit: 'sha1-5fda3b95a4ea91299a34e894583c3862153e4b97'
+    'actions/setup-python@v7.1.0':
+        ref: 'v7.1.0'
+        commit: 'sha1-6d4fd22b20465ccc0f7354476588e8df7c9ca0e0'
         owner_id: 44036562
         repo_id: 192625525
     'gacts/run-and-post-run@598d7a875d5620e0457490555b5e18e46082aa47':
@@ -73,9 +73,9 @@ dependencies:
         repo_id: 204199630
         uses:
             - 'actions/cache@v4'
-    'ts-graphviz/setup-graphviz@v2.0.2':
-        ref: 'v2.0.2'
-        commit: 'sha1-b1de5da23ed0a6d14e0aeee8ed52fdd87af2363c'
+    'ts-graphviz/setup-graphviz@v2.0.3':
+        ref: 'v2.0.3'
+        commit: 'sha1-6005aebc0168bb7f1c4b55f1e611648e57fb15d0'
         owner_id: 63964583
         repo_id: 261829725
     'zizmorcore/zizmor-action@v0.6.4':
